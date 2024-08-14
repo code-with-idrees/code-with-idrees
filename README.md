@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Idrees</h1>
 <h3 align="center">I’m passionate about revolutionizing industries with Artificial Intelligence (AI) and Machine Learning. Mastering LLMs, CNNs, and NLP, I focus on optimizing software designs and driving technological progress. As a game developer skilled in C++, Python, and Django, I build immersive experiences with a commitment to precision and user engagement. I thrive on competitive programming, actively participating in coding challenges and hackathons. Connect with me to explore innovative solutions and cutting-edge technologies.</h3>
+ <img align= "right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-idrees" alt="code-with-idrees" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<br><br>
 - 🌱 I’m currently learning **Advanced frameworks like TensorFlow, PyTorch, and Kubernetes, and deepening my understanding of cloud-based AI deployment.**
 
 - 📝 I regularly write blogs on [https://medium.com/@idrees0](https://medium.com/@idrees0)
@@ -15,7 +13,11 @@
 
 - ⚡ Fun fact **My code has more comments than a stand-up comedy show!**
 
-### Blogs posts
+  <br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-idrees" alt="code-with-idrees" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
