@@ -3,7 +3,7 @@
  <img align= "right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
 <br><br>
-- 🌱 I’m currently learning **Advanced frameworks like TensorFlow, PyTorch, and Kubernetes, and deepening my understanding of cloud-based AI deployment.**
+- 🌱 I’m currently learning **Advanced frameworks like TensorFlow deepening my understanding of cloud-based AI deployment.**
 
 - 📝 I regularly write blogs on [https://medium.com/@idrees0](https://medium.com/@idrees0)
 
