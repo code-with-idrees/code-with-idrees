@@ -1,43 +1,151 @@
-<h1 align="center">Hi 👋, I'm Muhammad Idrees</h1>
-<h3 align="center">I’m passionate about revolutionizing industries with Artificial Intelligence (AI) and Machine Learning.  As a game developer skilled in C++, Python, and Django, I build immersive experiences with a commitment to precision and user engagement. I thrive on competitive programming, actively participating in coding challenges and hackathons. Connect with me to explore innovative solutions and cutting-edge technologies.</h3>
- <img align= "right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+<div align="center">
 
-<br><br>
-- 🌱 I’m currently learning **Advanced frameworks like TensorFlow deepening my understanding of cloud-based AI deployment.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Idrees&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-- 📝 I regularly write blogs on [https://medium.com/@idrees0](https://medium.com/@idrees0)
+</div>
 
-- 💬 Ask me about **AI, Machine Learning, Game Development, Competitive Programming, Software Development.**
+<div align="center">
+  <a href="https://linkedin.com/in/muhammadidrees-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sleeping4catt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@idrees0"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/muhammad_idrees_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://kaggle.com/muhammadidrees"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/25127610"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+</div>
 
-- 📫 How to reach me **sleeping4catt@gmail.com**
+<br/>
 
-- ⚡ Fun fact **My code has more comments than a stand-up comedy show!**
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="360"/>
 
-  <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-idrees" alt="code-with-idrees" /></a> </p>
+## 🚀 About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+> *"Redefining AI models to unleash their full power — making them more efficient, scalable, and accessible."*
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+I'm an **AI/ML Engineer** and **Game Developer** from 🇵🇰 Pakistan, passionate about revolutionizing industries through intelligent systems. My mission is to build cutting-edge solutions at the intersection of **Machine Learning**, **High-Performance Computing**, and **Game Development**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad idrees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad idrees" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25127610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25127610" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhammad idrees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammad idrees" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad idrees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad idrees" height="30" width="40" /></a>
-<a href="https://instagram.com/thee_persistent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thee_persistent" height="30" width="40" /></a>
-<a href="https://medium.com/@idrees0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@idrees0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhammad_idrees_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad_idrees_" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@idrees00001991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@idrees00001991" height="30" width="40" /></a>
+- 🧠 **Aspiring Computational Scientist** specializing in HPC & Quantum Machine Learning
+- 🏆 **Google Cloud AI x MLB Hackathon** participant — built AI-driven baseball analytics solutions
+
+- ✍️ **Technical Blogger** sharing ML insights on [Medium](https://medium.com/@idrees0)
+- 🌱 Currently deepening expertise in **TensorFlow** and **cloud-based AI deployment**
+- ⚡ Fun fact: *My code has more comments than a stand-up comedy show!*
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&show_icons=true&locale=en&layout=compact" alt="code-with-idrees" /></p>
+### 🌐 Web & Backend
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-idrees&show_icons=true&locale=en" alt="code-with-idrees" /></p>
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-idrees&" alt="code-with-idrees" /></p>
+---
+
+## 🏆 Highlights & Achievements
+
+| 🥇 Achievement | 📝 Details |
+|---|---|
+| 🌐 **Google Cloud Hackathon** | AI x MLB Hackathon — Integrated cloud technologies & ML models for baseball analytics |
+| 💡 **Open Source Innovator** | Committed to developing cutting-edge AI solutions with minimal compute |
+| 🎯 **Competitive Programmer** | Active on LeetCode, HackerEarth & coding competitions |
+| ✍️ **Technical Blogger** | Regularly shares AI/ML insights on Medium |
+
+
+---
+
+## 🎯 Current Focus
+
+```python
+class MuhammadIdrees:
+    def __init__(self):
+        self.role = "AI/ML Engineer & Competitive Programmer"
+        self.location = "Pakistan 🇵🇰"
+        self.current_learning = [
+            "Advanced TensorFlow",
+            "Cloud-based AI Deployment",
+            "High Performance Computing",
+            "Quantum Machine Learning"
+        ]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Competitive Programming",
+            "Open Source"
+        ]
+        self.mission = "Redefine AI to be efficient, scalable & accessible for all"
+
+    def contact(self):
+        return "sleeping4catt@gmail.com"
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-idrees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-idrees&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=code-with-idrees&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="trophy"/>
+  </a>
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+*Check out my latest articles on [Medium →](https://medium.com/@idrees0)*
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-with-idrees&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
+  <br/><br/>
+  <i>💬 Open to collaborations on AI research, ML projects & game development!</i>
+  <br/>
+  <b>📫 Reach me: sleeping4catt@gmail.com</b>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
