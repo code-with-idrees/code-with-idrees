@@ -183,11 +183,6 @@ class MuhammadIdrees:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-idrees&theme=nord&column=7&margin-w=10&margin-h=10" width="100%"/>
-</div>
 
 ---
 
