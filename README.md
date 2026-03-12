@@ -199,6 +199,10 @@ class MuhammadIdrees:
 
 <br/>
 
+*📬 For research-related queries, collaborations, or PhD inquiries — reach out directly:*
+
+<br/>
+
 <a href="https://linkedin.com/in/muhammadidrees-">
   <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
