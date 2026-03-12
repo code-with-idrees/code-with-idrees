@@ -180,6 +180,12 @@ class MuhammadIdrees:
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=code-with-idrees&theme=nord&column=7&margin-w=10&margin-h=10" width="100%"/>
 </div>
 
@@ -199,12 +205,12 @@ class MuhammadIdrees:
 
 <br/>
 
-*📬 For research-related queries, collaborations, or PhD inquiries — reach out directly:*
+*📬 For research-related queries & collaborations, reach out directly:*
 
 <br/>
 
 <a href="https://linkedin.com/in/muhammadidrees-">
-  <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sleeping4catt@gmail.com">
   <img src="https://img.shields.io/badge/sleeping4catt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
