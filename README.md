@@ -180,7 +180,7 @@ class MuhammadIdrees:
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-idrees&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
