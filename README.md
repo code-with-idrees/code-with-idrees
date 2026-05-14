@@ -1,12 +1,12 @@
-\<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d1b4b,100:0a2472&height=220&section=header&text=Muhammad%20Idrees&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20HPC%20%E2%80%A2%20Generative%20AI&descAlignY=56&descColor=60a5fa&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Aspiring+Computational+Scientist+%F0%9F%94%AC;Machine+Learning+Researcher+%F0%9F%A4%96;High+Performance+Computing+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Generative+AI+%7C+LLMs+%7C+Diffusion+Models+%F0%9F%A7%A0;Stanford+Code+in+Place+Section+Leader+%F0%9F%8E%93;CERN+BL4S+Participant+%F0%9F%94%AC+from+%F0%9F%87%B5%F0%9F%87%B0+Pakistan)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Aspiring+Computational+Scientist+%F0%9F%94%AC;Machine+Learning+Researcher+%F0%9F%A4%96;High+Performance+Computing+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Generative+AI+%7C+LLMs+%7C+Diffusion+Models+%F0%9F%A7%A0;Stanford+Code+in+Place+Section+Leader+%F0%9F%8E%93;CERN+BL4S+Participant+%F0%9F%94%AC+from+%F0%9F%87%B5%F0%9F%87%B0+Pakistan" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/muhammadidrees-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sleeping4catt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -15,13 +15,15 @@
 <a href="https://kaggle.com/muhammadidrees"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/25127610"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=code-with-idrees&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="340"/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
 ## 🤖 About Me
 
@@ -69,49 +71,64 @@ I'm a **Computational Scientist** and **AI Researcher** from 🇵🇰 Pakistan, 
 ## 🛠️ Technical Arsenal
 
 ### 🤖 Machine Learning & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BERT-0052CC?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
-</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/BERT-0052CC?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+
+</div>
 
 ### 🧠 Generative AI & LLMs
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Faster--Whisper-412991?style=for-the-badge&logoColor=white"/>
-</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Faster--Whisper-412991?style=for-the-badge&logoColor=white"/>
+
+</div>
 
 ### 🖥️ HPC & Systems
-<p>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenMP-0071C5?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MPI-FF6600?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenMP-0071C5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MPI-FF6600?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
 
 ### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</div>
 
 ### ☁️ Cloud & MLOps
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -189,18 +206,19 @@ class MuhammadIdrees:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-idrees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-idrees&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa" width="58%"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=code-with-idrees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" height="170"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-idrees&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa" width="58%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&area=true&hide_border=true" width="100%"/>
+
 </div>
 
 ---
@@ -223,12 +241,11 @@ class MuhammadIdrees:
 
 <br/>
 
-<a href="https://linkedin.com/in/muhammadidrees-">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sleeping4catt@gmail.com">
-  <img src="https://img.shields.io/badge/sleeping4catt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/muhammadidrees-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:sleeping4catt@gmail.com"><img src="https://img.shields.io/badge/sleeping4catt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
 
 </div>
 
