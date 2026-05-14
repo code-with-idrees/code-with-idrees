@@ -12,6 +12,14 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=620&lines=Building+efficient%2C+scalable+AI+systems+from+%F0%9F%87%B5%F0%9F%87%B0+Pakistan;Stanford+Code+in+Place+Section+Leader+%7C+CERN+BL4S+2025;Transformers+%C2%B7+CUDA+%C2%B7+LLMs+%C2%B7+Multi-Agent+Systems;Open+to+Research+Collaborations+%26+PhD+Opportunities" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadidrees-)
 [![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:sleeping4catt@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@idrees0)
