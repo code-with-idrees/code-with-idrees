@@ -4,15 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a1628,70:0d2137,100:0a1f3d&height=200&section=header&text=Muhammad%20Idrees&fontSize=56&fontColor=e2e8f0&fontAlignY=38&desc=ML%20Researcher%20%E2%80%A2%20HPC%20Engineer%20%E2%80%A2%20Generative%20AI&descSize=17&descAlignY=58&descColor=64b5f6&animation=fadeIn" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&multiline=false&width=620&lines=Building+efficient%2C+scalable+AI+systems+from+🇵🇰+Pakistan;Stanford+Code+in+Place+Section+Leader+%7C+CERN+BL4S+2025;Transformers+%C2%B7+CUDA+%C2%B7+LLMs+%C2%B7+Multi-Agent+Systems;Open+to+Research+Collaborations+%26+PhD+Opportunities" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:0d2137,100:0a1f3d&height=240&section=header&text=Muhammad%20Idrees&fontSize=58&fontColor=e2e8f0&fontAlignY=40&desc=ML%20Researcher%20%E2%80%A2%20HPC%20Engineer%20%E2%80%A2%20Generative%20AI&descSize=18&descAlignY=60&descColor=64b5f6&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -261,4 +253,4 @@ Production-grade MLB fan engagement platform using Google Cloud AI. Built real-t
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f3d,50:0d2137,100:0d0d0d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f3d,50:0d2137,100:0d1117&height=120&section=footer" width="100%"/>
