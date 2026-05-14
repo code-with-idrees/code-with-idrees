@@ -1,252 +1,264 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    MUHAMMAD IDREES — README                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d1b4b,100:0a2472&height=220&section=header&text=Muhammad%20Idrees&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20HPC%20%E2%80%A2%20Generative%20AI&descAlignY=56&descColor=60a5fa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a1628,70:0d2137,100:0a1f3d&height=200&section=header&text=Muhammad%20Idrees&fontSize=56&fontColor=e2e8f0&fontAlignY=38&desc=ML%20Researcher%20%E2%80%A2%20HPC%20Engineer%20%E2%80%A2%20Generative%20AI&descSize=17&descAlignY=58&descColor=64b5f6&animation=fadeIn" width="100%"/>
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Aspiring+Computational+Scientist+%F0%9F%94%AC;Machine+Learning+Researcher+%F0%9F%A4%96;High+Performance+Computing+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Generative+AI+%7C+LLMs+%7C+Diffusion+Models+%F0%9F%A7%A0;Stanford+Code+in+Place+Section+Leader+%F0%9F%8E%93;CERN+BL4S+Participant+%F0%9F%94%AC+from+%F0%9F%87%B5%F0%9F%87%B0+Pakistan" alt="Typing SVG"/>
+<div align="center">
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&multiline=false&width=620&lines=Building+efficient%2C+scalable+AI+systems+from+🇵🇰+Pakistan;Stanford+Code+in+Place+Section+Leader+%7C+CERN+BL4S+2025;Transformers+%C2%B7+CUDA+%C2%B7+LLMs+%C2%B7+Multi-Agent+Systems;Open+to+Research+Collaborations+%26+PhD+Opportunities" alt="Typing SVG" />
 
-<a href="https://linkedin.com/in/muhammadidrees-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sleeping4catt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://medium.com/@idrees0"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://www.leetcode.com/muhammad_idrees_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-<a href="https://kaggle.com/muhammadidrees"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/25127610"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+</div>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=code-with-idrees&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadidrees-)
+[![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:sleeping4catt@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@idrees0)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/muhammadidrees)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/muhammad_idrees_)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25127610)
+
+<img src="https://komarev.com/ghpvc/?username=code-with-idrees&style=flat-square&color=64b5f6&label=profile+views" alt="profile views"/>
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
-
-## 🤖 About Me
-
-> *"Redefining AI models to unleash their full power — making them more efficient, scalable, and accessible to humanity."*
-
-I'm a **Computational Scientist** and **AI Researcher** from 🇵🇰 Pakistan, working at the intersection of **Machine Learning**, **High-Performance Computing**, and **Generative AI**. My research vision is to architect next-generation intelligent systems that are efficient, scalable, and universally accessible.
-
-- 🤖 **ML Researcher** — transformers, NLP pipelines, encoder-decoder architectures & multi-agent systems
-- 🖥️ **HPC Enthusiast** — designing GPU-accelerated, parallel & distributed ML pipelines with CUDA
-- 🧠 **Generative AI Researcher** — LLMs, diffusion models, transformer architectures & RLHF
-- 🎓 **Stanford Code in Place** — selected as Section Leader, mentoring students globally in CS
-- 🔬 **CERN BL4S Participant** — competed in CERN's international Beamline for Schools competition
-- 🏆 **Google Cloud AI × MLB Hackathon** — built production-grade cloud AI analytics pipelines
-- ✍️ **Technical Writer** — publishing AI/ML research insights on [Medium](https://medium.com/@idrees0)
-- 🌱 Currently exploring **FlashAttention**, **Model Compression**, and **Efficient LLM Inference**
-
-<br clear="right"/>
-
----
-
-## 🔬 Research Interests
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   🤖  Machine Learning              🖥️  High-Performance Computing  │
-│       BERT · T5 · RNN · XGBoost        GPU-Accelerated Training    │
-│       NLP · Seq2Seq · Fine-tuning       CUDA · Parallel Computing   │
-│       Multi-Agent Pipelines             Distributed Systems         │
-│                                                                     │
-│   🧬  Generative AI                 🧠  Foundation Models           │
-│       LLMs · Diffusion Models           Pre-training · Fine-tuning  │
-│       Transformers · Multi-Agent        RLHF · LoRA · Quantization  │
-│       Prompt Engineering               Efficient Inference          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🛠️ Technical Arsenal
-
-### 🤖 Machine Learning & Deep Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/BERT-0052CC?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
-
-</div>
-
-### 🧠 Generative AI & LLMs
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Faster--Whisper-412991?style=for-the-badge&logoColor=white"/>
-
-</div>
-
-### 🖥️ HPC & Systems
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenMP-0071C5?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/MPI-FF6600?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</div>
-
-### 💻 Languages
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</div>
-
-### ☁️ Cloud & MLOps
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
-</div>
-
----
-
-## 🧬 Research Profile
+## ❯ whoami
 
 ```python
-class MuhammadIdrees:
-    """
-    Computational Scientist | ML · HPC · Generative AI Researcher
-    """
-
-    affiliation  = "Independent Researcher · Open to PhD / Research Positions"
-    location     = "Pakistan 🇵🇰  →  Silicon Valley 🎯"
-    mission      = "Redefine AI: efficient, scalable, and universally accessible"
-
-    research_domains = {
-        "Machine Learning"  : ["BERT", "T5", "RNN", "XGBoost", "NLP", "Seq2Seq", "Multi-Agent"],
-        "HPC"               : ["CUDA Kernels", "Distributed Training", "MPI Parallelism", "GPU Optimization"],
-        "Generative AI"     : ["LLMs", "Diffusion Models", "Transformers", "RLHF", "Prompt Engineering"],
-        "Foundation Models" : ["Pre-training", "Efficient Inference", "Model Compression", "LoRA Fine-tuning"],
-    }
-
-    currently_exploring = [
-        "FlashAttention & Memory-Efficient Transformers",
-        "Sparse Mixture-of-Experts Architectures",
-        "Autonomous AI Agent Pipelines",
-        "Low-Resource NLP & Neural Machine Translation",
-    ]
-
-    open_to = [
-        "Research Collaborations",
-        "PhD Opportunities",
-        "AI/ML Research Internships",
-        "Open Source Contributions",
-    ]
+researcher = {
+    "name"        : "Muhammad Idrees",
+    "affiliation" : "FAST-NUCES Islamabad · CS Undergraduate",
+    "location"    : "Rawalpindi, Pakistan 🇵🇰",
+    "focus"       : ["Machine Learning", "HPC / CUDA", "Generative AI", "NLP"],
+    "mission"     : "Build AI systems that are efficient, scalable, and universally accessible",
+    "status"      : "Open to Research Collaborations · PhD Opportunities · Internships",
+    "contact"     : "muhammad.idrees2k25@gmail.com",
+}
 ```
 
+I'm an undergraduate **AI/ML researcher** working at the intersection of deep learning, high-performance computing, and generative AI. My work spans from low-level CUDA kernel optimization to building multi-agent LLM pipelines. I care about making models that actually work — fast, interpretable, and deployable.
+
 ---
 
-## 🏆 Achievements & Highlights
+## ❯ Research & Interests
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Machine Learning & NLP**
+- Transformer architectures (BERT, T5, encoder-decoder)
+- Sequence-to-sequence & low-resource NMT
+- Multi-agent LLM orchestration
+- Efficient fine-tuning: LoRA, QLoRA, PEFT
+
+</td>
+<td width="50%" valign="top">
+
+**🖥️ High-Performance Computing**
+- CUDA programming & GPU-accelerated ML
+- Parallel & distributed training (MPI, OpenMP)
+- Memory-efficient inference & FlashAttention
+- Model compression & quantization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Generative AI**
+- Large language models (Gemini, Groq, Ollama)
+- Diffusion models & image synthesis
+- Autonomous AI agents & tool-use pipelines
+- Prompt engineering & RLHF
+
+</td>
+<td width="50%" valign="top">
+
+**🔬 Currently Exploring**
+- Sparse Mixture-of-Experts architectures
+- FlashAttention & memory-efficient transformers
+- Autonomous multi-agent reasoning systems
+- Foundation model pre-training at scale
+
+</td>
+</tr>
+</table>
+
+---
+
+## ❯ Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 Intelligent RC & Quiz Generation
+`PyTorch` `BERT` `T5` `NLP`
+
+Hybrid ML pipeline using BERT + T5 transformers to analyze text and auto-generate reading comprehension questions and quizzes. Designed as a full AI-powered educational tool.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖼️ Denoising Autoencoder — CIFAR-10
+`PyTorch` `Deep Learning` `Research`
+
+Designed a 182K-parameter DAE achieving **24.62 dB PSNR** and **0.8225 SSIM**. Accompanied by a full 10-page LNCS-format research report with 45+ ablation experiments.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Multi-Agent AI Video Generation
+`Python` `Gemini API` `Groq` `LLMs`
+
+Architected a modular multi-agent pipeline for AI video generation. Specialized LLM agents handle scriptwriting, scene planning, and synthesis — with Gemini primary and Groq fallback.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Google Meet AI Attendance Agent
+`Faster-Whisper` `Ollama` `Playwright`
+
+Fully offline autonomous agent that joins live Google Meet sessions, transcribes speech, marks attendance, answers questions, and auto-generates structured PDF notes. Zero API keys.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 English–Urdu Neural Machine Translation
+`PyTorch` `RNN` `Seq2Seq` `NLP`
+
+Vanilla RNN encoder-decoder for low-resource Eng→Urdu NMT. Empirical study on vanishing gradients, sequence bottlenecks, and training instability in under-resourced language pairs.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚾ Google Cloud × MLB Hackathon
+`GCP` `Python` `Predictive Modeling`
+
+Production-grade MLB fan engagement platform using Google Cloud AI. Built real-time predictive models and personalized content pipelines for live game enhancement.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ❯ Technical Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/BERT-0052CC?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![SBERT](https://img.shields.io/badge/SBERT-FF6B6B?style=flat-square&logoColor=white)
+
+**Generative AI & LLMs**
+
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-412991?style=flat-square&logoColor=white)
+
+**HPC & Systems**
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-FF6600?style=flat-square&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-0071C5?style=flat-square&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Cloud & MLOps**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+---
+
+## ❯ Highlights
+
+| | |
+|---|---|
+| 🎓 **Stanford Code in Place — Section Leader** `2025` | Selected from a global pool to mentor students in Python & computational thinking for Stanford's international CS program |
+| 🔬 **CERN Beamline for Schools (BL4S)** `2025` | Competed in CERN's international physics competition, proposing an original experiment applying HPC and ML concepts |
+| ☁️ **Google Cloud × MLB Hackathon** `2025` | Built a production-grade AI fan engagement platform on GCP with real-time predictive models |
+| 📄 **LNCS Research Report — Denoising Autoencoder** `2025` | Produced a full 10-page academic paper with 45+ ablation figures on CIFAR-10 image denoising |
+| ✍️ **AI Research Writing on Medium** | Publishing technical deep-dives on ML, NLP, and systems for a global audience |
+
+---
+
+## ❯ GitHub Activity
 
 <div align="center">
 
-| 🥇 | Achievement | Impact |
-|:---:|---|---|
-| 🎓 | **Stanford Code in Place — Section Leader** | Mentored students worldwide in Python & computational thinking |
-| 🔬 | **CERN BL4S Participant** | Competed in international physics competition at CERN, Geneva |
-| ☁️ | **Google Cloud AI × MLB Hackathon** | Built production-grade cloud AI pipelines for baseball analytics |
-| 🤖 | **Multi-Agent AI Video Generation** | Architected modular LLM pipeline using Gemini + Groq for AI video synthesis |
-| 🧠 | **Denoising Autoencoder Research** | 182K-param DAE on CIFAR-10 — 24.62 dB PSNR, full LNCS-style research report |
-| ✍️ | **AI Research Blogger** | Publishing cutting-edge ML insights on Medium |
-| 🎯 | **Competitive Programmer** | Active on LeetCode & HackerEarth — algorithmic problem solving |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlight |
-|---|---|---|
-| **Intelligent RC & Quiz Generation** | PyTorch, BERT, T5, NLP | Auto-generates reading comprehension quizzes from text using hybrid ML pipelines |
-| **Denoising Autoencoder (CIFAR-10)** | PyTorch, Deep Learning | 182K params · 24.62 dB PSNR · 0.8225 SSIM · 45+ ablation figures |
-| **Multi-Agent AI Video Generation** | Python, Gemini API, Groq, LLMs | Modular LLM roles for scriptwriting, scene planning & synthesis |
-| **Google Meet AI Attendance Agent** | Faster-Whisper, Ollama, Playwright | Fully offline autonomous agent — joins live sessions, marks attendance, generates PDF notes |
-| **English–Urdu Neural MT** | PyTorch, RNN, NLP | Vanilla RNN Encoder-Decoder for low-resource NMT; empirical study on vanishing gradients |
-| **Google Cloud × MLB Hackathon** | Python, GCP, Predictive Modeling | Real-time fan engagement platform with personalized AI-driven content pipelines |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=code-with-idrees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-idrees&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa" width="58%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 📝 Latest Research Articles
-
-<!-- BLOG-POST-LIST:START -->
-*Explore my latest AI/ML research writings on [Medium →](https://medium.com/@idrees0)*
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-**🤖 Machine Learning · 🖥️ HPC · 🧠 Generative AI · 🔬 Open to Research Collaborations & PhD Opportunities**
-
-<br/>
-
-*📬 For research-related queries & collaborations, reach out directly:*
-
-<br/>
-
-<a href="https://linkedin.com/in/muhammadidrees-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=code-with-idrees&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&rank_icon=github" height="160"/>
 &nbsp;
-<a href="mailto:sleeping4catt@gmail.com"><img src="https://img.shields.io/badge/sleeping4catt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9" height="160"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2472,50:0d1b4b,100:000000&height=130&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-idrees&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64b5f6&fire=64b5f6&currStreakLabel=64b5f6&sideLabels=c9d1d9&dates=8b949e" width="55%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=0d1117&color=64b5f6&line=64b5f6&point=e2e8f0&area_color=0d2137&area=true&hide_border=true&radius=6" width="100%"/>
+
+</div>
+
+---
+
+## ❯ Writing
+
+> *Explore research articles, tutorials, and ML deep-dives on [Medium →](https://medium.com/@idrees0)*
+
+---
+
+<div align="center">
+
+**Machine Learning · HPC · Generative AI**
+
+*Rawalpindi, Pakistan → Open to Remote Research & PhD Opportunities Worldwide*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadidrees-)
+[![Email](https://img.shields.io/badge/Send%20a%20message-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sleeping4catt@gmail.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f3d,50:0d2137,100:0d0d0d&height=120&section=footer" width="100%"/>
