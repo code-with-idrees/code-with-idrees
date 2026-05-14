@@ -1,10 +1,10 @@
-<div align="center">
+\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d1b4b,100:0a2472&height=220&section=header&text=Muhammad%20Idrees&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Quantum%20ML%20%E2%80%A2%20HPC%20Research%20%E2%80%A2%20Generative%20AI&descAlignY=56&descColor=60a5fa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d1b4b,100:0a2472&height=220&section=header&text=Muhammad%20Idrees&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20HPC%20%E2%80%A2%20Generative%20AI&descAlignY=56&descColor=60a5fa&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Aspiring+Computational+Scientist+%F0%9F%94%AC;Quantum+Machine+Learning+Researcher+%E2%9A%9B%EF%B8%8F;High+Performance+Computing+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Generative+AI+%7C+LLMs+%7C+Diffusion+Models+%F0%9F%A4%96;Silicon+Valley+Visionary+from+%F0%9F%87%B5%F0%9F%87%B0+Pakistan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Aspiring+Computational+Scientist+%F0%9F%94%AC;Machine+Learning+Researcher+%F0%9F%A4%96;High+Performance+Computing+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Generative+AI+%7C+LLMs+%7C+Diffusion+Models+%F0%9F%A7%A0;Stanford+Code+in+Place+Section+Leader+%F0%9F%8E%93;CERN+BL4S+Participant+%F0%9F%94%AC+from+%F0%9F%87%B5%F0%9F%87%B0+Pakistan)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,18 +23,20 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="340"/>
 
-## ⚛️ About Me
+## 🤖 About Me
 
 > *"Redefining AI models to unleash their full power — making them more efficient, scalable, and accessible to humanity."*
 
-I'm a **Computational Scientist** and **AI Researcher** from 🇵🇰 Pakistan, operating at the bleeding edge of **Quantum Machine Learning**, **High-Performance Computing**, and **Generative AI**. My research vision is to architect next-generation intelligent systems that transcend the limits of classical computing.
+I'm a **Computational Scientist** and **AI Researcher** from 🇵🇰 Pakistan, working at the intersection of **Machine Learning**, **High-Performance Computing**, and **Generative AI**. My research vision is to architect next-generation intelligent systems that are efficient, scalable, and universally accessible.
 
-- ⚛️ **Quantum ML Researcher** — exploring variational quantum circuits & quantum-classical hybrid models
-- 🖥️ **HPC Enthusiast** — designing parallel, distributed & GPU-accelerated ML pipelines
-- 🤖 **Generative AI Researcher** — LLMs, diffusion models, transformer architectures & RLHF
+- 🤖 **ML Researcher** — transformers, NLP pipelines, encoder-decoder architectures & multi-agent systems
+- 🖥️ **HPC Enthusiast** — designing GPU-accelerated, parallel & distributed ML pipelines with CUDA
+- 🧠 **Generative AI Researcher** — LLMs, diffusion models, transformer architectures & RLHF
+- 🎓 **Stanford Code in Place** — selected as Section Leader, mentoring students globally in CS
+- 🔬 **CERN BL4S Participant** — competed in CERN's international Beamline for Schools competition
 - 🏆 **Google Cloud AI × MLB Hackathon** — built production-grade cloud AI analytics pipelines
 - ✍️ **Technical Writer** — publishing AI/ML research insights on [Medium](https://medium.com/@idrees0)
-- 🌱 Currently exploring **Quantum Error Correction**, **FlashAttention**, and **Model Compression**
+- 🌱 Currently exploring **FlashAttention**, **Model Compression**, and **Efficient LLM Inference**
 
 <br clear="right"/>
 
@@ -47,15 +49,15 @@ I'm a **Computational Scientist** and **AI Researcher** from 🇵🇰 Pakistan, 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
-│   ⚛️  Quantum Machine Learning     🖥️  High-Performance Computing   │
-│       Variational Quantum              GPU-Accelerated Training     │
-│       Circuits · QAOA · QNN           MPI · CUDA · Distributed     │
-│                                        Systems · Benchmarking       │
+│   🤖  Machine Learning              🖥️  High-Performance Computing  │
+│       BERT · T5 · RNN · XGBoost        GPU-Accelerated Training    │
+│       NLP · Seq2Seq · Fine-tuning       CUDA · Parallel Computing   │
+│       Multi-Agent Pipelines             Distributed Systems         │
 │                                                                     │
-│   🤖  Generative AI                 🧠  Foundation Models           │
-│       LLMs · Diffusion Models          Pre-training · Fine-tuning   │
-│       GANs · VAEs · Transformers       RLHF · LoRA · Quantization   │
-│       RLHF · Prompt Engineering        Efficient Inference          │
+│   🧬  Generative AI                 🧠  Foundation Models           │
+│       LLMs · Diffusion Models           Pre-training · Fine-tuning  │
+│       Transformers · Multi-Agent        RLHF · LoRA · Quantization  │
+│       Prompt Engineering               Efficient Inference          │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -66,22 +68,22 @@ I'm a **Computational Scientist** and **AI Researcher** from 🇵🇰 Pakistan, 
 
 ## 🛠️ Technical Arsenal
 
-### ⚛️ Quantum Computing
-<p>
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=IBM&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PennyLane-00C7B7?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM%20Quantum-6929C4?style=for-the-badge&logo=IBM&logoColor=white"/>
-</p>
-
-### 🤖 Generative AI & Deep Learning
+### 🤖 Machine Learning & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAX-A8B9CC?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BERT-0052CC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+</p>
+
+### 🧠 Generative AI & LLMs
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Faster--Whisper-412991?style=for-the-badge&logoColor=white"/>
 </p>
 
 ### 🖥️ HPC & Systems
@@ -98,7 +100,7 @@ I'm a **Computational Scientist** and **AI Researcher** from 🇵🇰 Pakistan, 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -118,7 +120,7 @@ I'm a **Computational Scientist** and **AI Researcher** from 🇵🇰 Pakistan, 
 ```python
 class MuhammadIdrees:
     """
-    Computational Scientist | Quantum ML · HPC · Generative AI Researcher
+    Computational Scientist | ML · HPC · Generative AI Researcher
     """
 
     affiliation  = "Independent Researcher · Open to PhD / Research Positions"
@@ -126,17 +128,17 @@ class MuhammadIdrees:
     mission      = "Redefine AI: efficient, scalable, and universally accessible"
 
     research_domains = {
-        "Quantum ML"       : ["VQC", "QAOA", "Quantum Neural Networks", "Hybrid Classical-Quantum"],
-        "HPC"              : ["CUDA Kernels", "Distributed Training", "MPI Parallelism", "GPU Optimization"],
-        "Generative AI"    : ["LLMs", "Diffusion Models", "Transformers", "RLHF", "LoRA Fine-tuning"],
-        "Foundation Models": ["Pre-training", "Efficient Inference", "Model Compression", "Quantization"],
+        "Machine Learning"  : ["BERT", "T5", "RNN", "XGBoost", "NLP", "Seq2Seq", "Multi-Agent"],
+        "HPC"               : ["CUDA Kernels", "Distributed Training", "MPI Parallelism", "GPU Optimization"],
+        "Generative AI"     : ["LLMs", "Diffusion Models", "Transformers", "RLHF", "Prompt Engineering"],
+        "Foundation Models" : ["Pre-training", "Efficient Inference", "Model Compression", "LoRA Fine-tuning"],
     }
 
     currently_exploring = [
-        "Quantum Error Correction for ML workloads",
         "FlashAttention & Memory-Efficient Transformers",
         "Sparse Mixture-of-Experts Architectures",
-        "Quantum-Classical Hybrid Optimization",
+        "Autonomous AI Agent Pipelines",
+        "Low-Resource NLP & Neural Machine Translation",
     ]
 
     open_to = [
@@ -155,12 +157,30 @@ class MuhammadIdrees:
 
 | 🥇 | Achievement | Impact |
 |:---:|---|---|
+| 🎓 | **Stanford Code in Place — Section Leader** | Mentored students worldwide in Python & computational thinking |
+| 🔬 | **CERN BL4S Participant** | Competed in international physics competition at CERN, Geneva |
 | ☁️ | **Google Cloud AI × MLB Hackathon** | Built production-grade cloud AI pipelines for baseball analytics |
-| ⚛️ | **Quantum ML Research** | Exploring VQCs & hybrid models for next-gen AI acceleration |
-| 🤖 | **Generative AI Research** | LLMs, diffusion models & transformer architecture research |
-| 🖥️ | **HPC Systems** | GPU-accelerated & distributed ML pipeline development |
+| 🤖 | **Multi-Agent AI Video Generation** | Architected modular LLM pipeline using Gemini + Groq for AI video synthesis |
+| 🧠 | **Denoising Autoencoder Research** | 182K-param DAE on CIFAR-10 — 24.62 dB PSNR, full LNCS-style research report |
 | ✍️ | **AI Research Blogger** | Publishing cutting-edge ML insights on Medium |
 | 🎯 | **Competitive Programmer** | Active on LeetCode & HackerEarth — algorithmic problem solving |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlight |
+|---|---|---|
+| **Intelligent RC & Quiz Generation** | PyTorch, BERT, T5, NLP | Auto-generates reading comprehension quizzes from text using hybrid ML pipelines |
+| **Denoising Autoencoder (CIFAR-10)** | PyTorch, Deep Learning | 182K params · 24.62 dB PSNR · 0.8225 SSIM · 45+ ablation figures |
+| **Multi-Agent AI Video Generation** | Python, Gemini API, Groq, LLMs | Modular LLM roles for scriptwriting, scene planning & synthesis |
+| **Google Meet AI Attendance Agent** | Faster-Whisper, Ollama, Playwright | Fully offline autonomous agent — joins live sessions, marks attendance, generates PDF notes |
+| **English–Urdu Neural MT** | PyTorch, RNN, NLP | Vanilla RNN Encoder-Decoder for low-resource NMT; empirical study on vanishing gradients |
+| **Google Cloud × MLB Hackathon** | Python, GCP, Predictive Modeling | Real-time fan engagement platform with personalized AI-driven content pipelines |
 
 </div>
 
@@ -183,7 +203,6 @@ class MuhammadIdrees:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
-
 ---
 
 ## 📝 Latest Research Articles
@@ -196,7 +215,7 @@ class MuhammadIdrees:
 
 <div align="center">
 
-**⚛️ Quantum ML · 🖥️ HPC · 🤖 Generative AI · 🔬 Open to Research Collaborations & PhD Opportunities**
+**🤖 Machine Learning · 🖥️ HPC · 🧠 Generative AI · 🔬 Open to Research Collaborations & PhD Opportunities**
 
 <br/>
 
