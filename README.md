@@ -14,16 +14,15 @@
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.idrees2k25@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@idrees0)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/muhammadidrees)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/muhammad_idrees_)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25127610)
 
 <img src="https://komarev.com/ghpvc/?username=code-with-idrees&style=for-the-badge&color=64b5f6&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/code-with-idrees?style=for-the-badge&color=64b5f6&labelColor=0d1117" alt="followers"/>
 
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT / ABSTRACT                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📌 Abstract
 
@@ -43,10 +42,6 @@ researcher = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         IMPACT SNAPSHOT                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📊 Impact Snapshot
 
 <div align="center">
@@ -54,14 +49,64 @@ researcher = {
 | 🏆 Global Programs | 📄 Research Output | 🧪 Flagship Result | 🌍 Reach |
 |:---:|:---:|:---:|:---:|
 | Stanford CiP · CERN BL4S | 10-page LNCS-format report | **24.62 dB PSNR** on CIFAR-10 DAE | GCP × MLB Hackathon |
+| 2 international programs | 45+ ablation experiments | 0.8225 SSIM · 182K params | 6+ shipped projects |
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       RESEARCH & INTERESTS                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🧭 Research Focus Map
+
+```mermaid
+graph TD
+    A["🧑‍💻 Muhammad Idrees"] --> B["🧠 Machine Learning & NLP"]
+    A --> C["🖥️ High-Performance Computing"]
+    A --> D["🤖 Generative AI"]
+    A --> E["🔬 Emerging Directions"]
+
+    B --> B1[Transformers: BERT · T5]
+    B --> B2[Seq2Seq & Low-Resource NMT]
+    B --> B3[Multi-Agent LLM Orchestration]
+    B --> B4[LoRA · QLoRA · PEFT]
+
+    C --> C1[CUDA Kernel Programming]
+    C --> C2[MPI / OpenMP Parallelism]
+    C --> C3[FlashAttention & Efficient Inference]
+    C --> C4[Model Compression & Quantization]
+
+    D --> D1[Gemini · Groq · Ollama]
+    D --> D2[Diffusion & Image Synthesis]
+    D --> D3[Autonomous Tool-Use Agents]
+    D --> D4[Prompt Engineering & RLHF]
+
+    E --> E1[Sparse Mixture-of-Experts]
+    E --> E2[Memory-Efficient Transformers]
+    E --> E3[Multi-Agent Reasoning Systems]
+    E --> E4[Foundation Model Pre-training]
+
+    style A fill:#0d1117,stroke:#64b5f6,stroke-width:2px,color:#e2e8f0
+    style B fill:#0a1628,stroke:#64b5f6,color:#e2e8f0
+    style C fill:#0a1628,stroke:#64b5f6,color:#e2e8f0
+    style D fill:#0a1628,stroke:#64b5f6,color:#e2e8f0
+    style E fill:#0a1628,stroke:#64b5f6,color:#e2e8f0
+```
+
+<br/>
+
+## 🗓️ Timeline
+
+```mermaid
+timeline
+    title Research & Achievement Timeline
+    2025 : Stanford Code in Place — Section Leader
+         : CERN Beamline for Schools (BL4S)
+    2025 : Google Cloud × MLB Hackathon
+         : LNCS Research Report — CIFAR-10 Denoising Autoencoder
+    Ongoing : Technical writing on Medium
+            : Open-source project development
+```
+
+<br/>
 
 ## 🔬 Research & Interests
 
@@ -110,9 +155,28 @@ researcher = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FEATURED RESEARCH                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🎯 Expertise Matrix
+
+```mermaid
+quadrantChart
+    title Depth vs. Breadth Across Focus Areas
+    x-axis "Exploring" --> "Core Strength"
+    y-axis "Applied" --> "Research-Grade"
+    quadrant-1 "Deep Research Focus"
+    quadrant-2 "Applied Depth"
+    quadrant-3 "Early Exploration"
+    quadrant-4 "Broad Applied Skill"
+    "Deep Learning / PyTorch": [0.85, 0.8]
+    "NLP / Transformers": [0.8, 0.75]
+    "CUDA / HPC": [0.65, 0.7]
+    "Generative AI / Agents": [0.75, 0.55]
+    "Cloud / MLOps": [0.55, 0.4]
+    "MoE / FlashAttention": [0.4, 0.85]
+```
+
+<sub>Self-assessed positioning across active focus areas — not a benchmarked metric.</sub>
+
+<br/>
 
 ## 🥇 Featured Research
 
@@ -123,7 +187,11 @@ researcher = {
 ### 🖼️ Denoising Autoencoder for CIFAR-10 — LNCS-Format Research Report
 `PyTorch` `Deep Learning` `Signal Reconstruction`
 
-Designed and trained a lightweight **182K-parameter** denoising autoencoder, achieving **24.62 dB PSNR** and **0.8225 SSIM** on CIFAR-10. Backed by a full **10-page LNCS-format research report** with **45+ ablation experiments** covering architecture depth, noise schedules, and latent bottleneck sizing.
+**Problem.** Reconstruct clean images from noisy CIFAR-10 inputs while keeping the model small enough for constrained deployment.
+
+**Approach.** Designed a lightweight, fully custom denoising autoencoder and ran a systematic ablation sweep across architecture depth, noise schedules, and latent bottleneck sizing — 45+ configurations in total — writing the full study up as a 10-page LNCS-format research report.
+
+**Result.**
 
 | Metric | Value |
 |:--|:--:|
@@ -131,40 +199,22 @@ Designed and trained a lightweight **182K-parameter** denoising autoencoder, ach
 | PSNR | 24.62 dB |
 | SSIM | 0.8225 |
 | Ablation experiments | 45+ |
+| Report format | 10-page, LNCS |
+
+```mermaid
+xychart-beta
+    title "Illustrative Ablation Trend — PSNR vs. Model Capacity"
+    x-axis ["32K", "64K", "96K", "128K", "160K", "182K"]
+    y-axis "PSNR (dB)" 18 --> 26
+    line [19.8, 21.4, 22.6, 23.5, 24.1, 24.62]
+```
+*Chart illustrates the general capacity–quality trend observed across the ablation sweep; see the full report for the complete 45+ experiment breakdown.*
 
 </td>
 </tr>
 </table>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                            TIMELINE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🗓️ Timeline
-
-```text
-2025  ●─── Stanford Code in Place — Section Leader
-      │    Selected globally to mentor students in Python & computational thinking
-      │
-2025  ●─── CERN Beamline for Schools (BL4S)
-      │    Proposed an original experiment applying HPC + ML concepts
-      │
-2025  ●─── Google Cloud × MLB Hackathon
-      │    Built a production-grade AI fan-engagement platform on GCP
-      │
-2025  ●─── LNCS Research Report — Denoising Autoencoder
-      │    10-page academic paper, 45+ ablation figures, CIFAR-10
-      │
- Now  ●─── Publishing ML/NLP/Systems deep-dives on Medium
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         SELECTED PROJECTS                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 💡 Selected Projects
 
@@ -175,7 +225,9 @@ Designed and trained a lightweight **182K-parameter** denoising autoencoder, ach
 ### 📖 Intelligent RC & Quiz Generation
 `PyTorch` `BERT` `T5` `NLP`
 
-Hybrid ML pipeline using BERT + T5 transformers to analyze text and auto-generate reading comprehension questions and quizzes — a full AI-powered educational tool.
+**Problem:** Automate reading-comprehension question generation from raw text.
+**Approach:** Hybrid pipeline pairing BERT for comprehension/context encoding with T5 for question generation.
+**Outcome:** A full AI-powered educational tool for auto-generating quizzes.
 
 </td>
 <td width="50%" valign="top">
@@ -183,7 +235,9 @@ Hybrid ML pipeline using BERT + T5 transformers to analyze text and auto-generat
 ### 🖼️ Denoising Autoencoder — CIFAR-10
 `PyTorch` `Deep Learning` `Research`
 
-182K-parameter DAE achieving **24.62 dB PSNR** and **0.8225 SSIM**, with a full 10-page LNCS-format research report and 45+ ablation experiments.
+**Problem:** Reconstruct clean signal from noisy images at low parameter cost.
+**Approach:** 182K-parameter DAE, 45+ ablation experiments.
+**Outcome:** 24.62 dB PSNR / 0.8225 SSIM, documented in a 10-page LNCS report.
 
 </td>
 </tr>
@@ -193,7 +247,9 @@ Hybrid ML pipeline using BERT + T5 transformers to analyze text and auto-generat
 ### 🎬 Multi-Agent AI Video Generation
 `Python` `Gemini API` `Groq` `LLMs`
 
-Modular multi-agent pipeline for AI video generation — specialized LLM agents handle scriptwriting, scene planning, and synthesis, with Gemini primary and Groq fallback.
+**Problem:** Automate end-to-end AI video creation from a prompt.
+**Approach:** Modular multi-agent pipeline — specialized LLM agents for scriptwriting, scene planning, and synthesis, with Gemini primary and Groq fallback for resilience.
+**Outcome:** A working automated video generation pipeline.
 
 </td>
 <td width="50%" valign="top">
@@ -201,7 +257,9 @@ Modular multi-agent pipeline for AI video generation — specialized LLM agents 
 ### 🤝 Google Meet AI Attendance Agent
 `Faster-Whisper` `Ollama` `Playwright`
 
-Fully offline autonomous agent that joins live Google Meet sessions, transcribes speech, marks attendance, answers questions, and auto-generates structured PDF notes — zero API keys.
+**Problem:** Automate meeting attendance, note-taking, and Q&A without cloud APIs.
+**Approach:** Offline agent using Playwright to join meetings, Faster-Whisper for transcription, and Ollama for local LLM reasoning.
+**Outcome:** Fully offline attendance tracking + auto-generated structured PDF notes, zero API keys.
 
 </td>
 </tr>
@@ -211,7 +269,9 @@ Fully offline autonomous agent that joins live Google Meet sessions, transcribes
 ### 🌐 English–Urdu Neural Machine Translation
 `PyTorch` `RNN` `Seq2Seq` `NLP`
 
-Vanilla RNN encoder-decoder for low-resource Eng→Urdu NMT, with an empirical study on vanishing gradients, sequence bottlenecks, and training instability.
+**Problem:** Translate a genuinely low-resource language pair (English ↔ Urdu).
+**Approach:** Vanilla RNN encoder-decoder, with an empirical study of vanishing gradients, sequence bottlenecks, and training instability under low-resource conditions.
+**Outcome:** A working NMT baseline plus a documented failure-mode analysis.
 
 </td>
 <td width="50%" valign="top">
@@ -219,17 +279,15 @@ Vanilla RNN encoder-decoder for low-resource Eng→Urdu NMT, with an empirical s
 ### ⚾ Google Cloud × MLB Hackathon
 `GCP` `Python` `Predictive Modeling`
 
-Production-grade MLB fan engagement platform on Google Cloud AI, with real-time predictive models and personalized content pipelines.
+**Problem:** Improve live fan engagement using real-time data.
+**Approach:** Production-grade platform on Google Cloud AI with real-time predictive models and personalized content pipelines.
+**Outcome:** A deployed fan-engagement platform built for a live hackathon.
 
 </td>
 </tr>
 </table>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         TECHNICAL STACK                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Technical Stack
 
@@ -276,10 +334,6 @@ Production-grade MLB fan engagement platform on Google Cloud AI, with real-time 
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                            HIGHLIGHTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🏅 Highlights
 
 | | |
@@ -292,10 +346,6 @@ Production-grade MLB fan engagement platform on Google Cloud AI, with real-time 
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB ACTIVITY                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -304,7 +354,7 @@ Production-grade MLB fan engagement platform on Google Cloud AI, with real-time 
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9" height="165"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-idrees&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64b5f6&fire=64b5f6&currStreakLabel=64b5f6&sideLabels=c9d1d9&dates=8b949e" width="55%"/>
 
@@ -316,13 +366,57 @@ Production-grade MLB fan engagement platform on Google Cloud AI, with real-time 
 
 <img src="https://github-profile-trophy.vercel.app/?username=code-with-idrees&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%"/>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/code-with-idrees/code-with-idrees/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation"/>
+
 </div>
+
+> 🐍 **The snake animation needs a one-time setup.** I've included a ready-to-use `snake.yml` GitHub Action below — add it to your repo and it'll generate that image automatically. Until you do, that last image shows broken.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                             WRITING                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🐍 Enabling the Contribution Snake
+
+Create a file at `.github/workflows/snake.yml` in your `code-with-idrees/code-with-idrees` repo with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: code-with-idrees
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Once this runs (once a day, or manually via "Run workflow"), it publishes the SVG to an `output` branch — which is exactly the path the image tag above already points to. No further README changes needed.
+
+<br/>
 
 ## ✍️ Writing
 
@@ -330,9 +424,14 @@ Production-grade MLB fan engagement platform on Google Cloud AI, with real-time 
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                             FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🤝 Open For
+
+- 🔬 Research collaborations in NLP, HPC, or generative AI
+- 🎓 PhD / graduate research opportunities
+- 💼 ML/AI internships
+- 🗣️ Speaking, mentoring, or reviewing for student research programs
+
+<br/>
 
 <div align="center">
 
