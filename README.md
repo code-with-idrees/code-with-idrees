@@ -372,51 +372,7 @@ xychart-beta
 
 </div>
 
-> 🐍 **The snake animation needs a one-time setup.** I've included a ready-to-use `snake.yml` GitHub Action below — add it to your repo and it'll generate that image automatically. Until you do, that last image shows broken.
 
-<br/>
-
-## 🐍 Enabling the Contribution Snake
-
-Create a file at `.github/workflows/snake.yml` in your `code-with-idrees/code-with-idrees` repo with this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: code-with-idrees
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once this runs (once a day, or manually via "Run workflow"), it publishes the SVG to an `output` branch — which is exactly the path the image tag above already points to. No further README changes needed.
-
-<br/>
 
 ## ✍️ Writing
 
