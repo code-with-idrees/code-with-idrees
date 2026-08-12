@@ -4,41 +4,35 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:0d2137,100:0a1f3d&height=240&section=header&text=Muhammad%20Idrees&fontSize=58&fontColor=e2e8f0&fontAlignY=40&desc=ML%20Researcher%20%E2%80%A2%20HPC%20Engineer%20%E2%80%A2%20Generative%20AI&descSize=18&descAlignY=60&descColor=64b5f6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:0d2137,100:0a1f3d&height=260&section=header&text=Muhammad%20Idrees&fontSize=58&fontColor=e2e8f0&fontAlignY=35&desc=AI%2FML%20Researcher%20%E2%80%A2%20HPC%20Engineer%20%E2%80%A2%20Generative%20AI&descSize=18&descAlignY=55&descColor=64b5f6&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=680&lines=Building+efficient%2C+scalable+AI+systems+from+%F0%9F%87%B5%F0%9F%87%B0+Pakistan;Stanford+Code+in+Place+Section+Leader+%7C+CERN+BL4S+2025;Transformers+%C2%B7+CUDA+%C2%B7+LLMs+%C2%B7+Multi-Agent+Systems;Open+to+Research+Collaborations+%26+PhD+Opportunities" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadidrees-)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.idrees2k25@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@idrees0)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/muhammadidrees)
+
+<img src="https://komarev.com/ghpvc/?username=code-with-idrees&style=for-the-badge&color=64b5f6&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
 <br/>
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          ABOUT / ABSTRACT                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=620&lines=Building+efficient%2C+scalable+AI+systems+from+%F0%9F%87%B5%F0%9F%87%B0+Pakistan;Stanford+Code+in+Place+Section+Leader+%7C+CERN+BL4S+2025;Transformers+%C2%B7+CUDA+%C2%B7+LLMs+%C2%B7+Multi-Agent+Systems;Open+to+Research+Collaborations+%26+PhD+Opportunities" alt="Typing SVG" />
+## 📌 Abstract
 
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadidrees-)
-[![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:sleeping4catt@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@idrees0)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/muhammadidrees)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/muhammad_idrees_)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25127610)
-
-<img src="https://komarev.com/ghpvc/?username=code-with-idrees&style=flat-square&color=64b5f6&label=profile+views" alt="profile views"/>
-
-</div>
-
----
-
-## ❯ whoami
+> Undergraduate AI/ML researcher working across **deep learning, high-performance computing, and generative AI** — from CUDA-level kernel optimization to multi-agent LLM pipelines. My work is grounded in one question: *how do we make models that are efficient, interpretable, and genuinely deployable?*
 
 ```python
 researcher = {
     "name"        : "Muhammad Idrees",
-    "affiliation" : "FAST-NUCES Islamabad · CS Undergraduate",
+    "affiliation" : "FAST-NUCES Islamabad — B.S. Computer Science",
     "location"    : "Rawalpindi, Pakistan 🇵🇰",
     "focus"       : ["Machine Learning", "HPC / CUDA", "Generative AI", "NLP"],
     "mission"     : "Build AI systems that are efficient, scalable, and universally accessible",
@@ -47,11 +41,29 @@ researcher = {
 }
 ```
 
-I'm an undergraduate **AI/ML researcher** working at the intersection of deep learning, high-performance computing, and generative AI. My work spans from low-level CUDA kernel optimization to building multi-agent LLM pipelines. I care about making models that actually work — fast, interpretable, and deployable.
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         IMPACT SNAPSHOT                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ❯ Research & Interests
+## 📊 Impact Snapshot
+
+<div align="center">
+
+| 🏆 Global Programs | 📄 Research Output | 🧪 Flagship Result | 🌍 Reach |
+|:---:|:---:|:---:|:---:|
+| Stanford CiP · CERN BL4S | 10-page LNCS-format report | **24.62 dB PSNR** on CIFAR-10 DAE | GCP × MLB Hackathon |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       RESEARCH & INTERESTS                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🔬 Research & Interests
 
 <table>
 <tr>
@@ -86,7 +98,7 @@ I'm an undergraduate **AI/ML researcher** working at the intersection of deep le
 </td>
 <td width="50%" valign="top">
 
-**🔬 Currently Exploring**
+**🧭 Currently Exploring**
 - Sparse Mixture-of-Experts architectures
 - FlashAttention & memory-efficient transformers
 - Autonomous multi-agent reasoning systems
@@ -96,9 +108,65 @@ I'm an undergraduate **AI/ML researcher** working at the intersection of deep le
 </tr>
 </table>
 
----
+<br/>
 
-## ❯ Selected Projects
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FEATURED RESEARCH                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🥇 Featured Research
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🖼️ Denoising Autoencoder for CIFAR-10 — LNCS-Format Research Report
+`PyTorch` `Deep Learning` `Signal Reconstruction`
+
+Designed and trained a lightweight **182K-parameter** denoising autoencoder, achieving **24.62 dB PSNR** and **0.8225 SSIM** on CIFAR-10. Backed by a full **10-page LNCS-format research report** with **45+ ablation experiments** covering architecture depth, noise schedules, and latent bottleneck sizing.
+
+| Metric | Value |
+|:--|:--:|
+| Parameters | 182K |
+| PSNR | 24.62 dB |
+| SSIM | 0.8225 |
+| Ablation experiments | 45+ |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            TIMELINE                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🗓️ Timeline
+
+```text
+2025  ●─── Stanford Code in Place — Section Leader
+      │    Selected globally to mentor students in Python & computational thinking
+      │
+2025  ●─── CERN Beamline for Schools (BL4S)
+      │    Proposed an original experiment applying HPC + ML concepts
+      │
+2025  ●─── Google Cloud × MLB Hackathon
+      │    Built a production-grade AI fan-engagement platform on GCP
+      │
+2025  ●─── LNCS Research Report — Denoising Autoencoder
+      │    10-page academic paper, 45+ ablation figures, CIFAR-10
+      │
+ Now  ●─── Publishing ML/NLP/Systems deep-dives on Medium
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         SELECTED PROJECTS                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💡 Selected Projects
 
 <table>
 <tr>
@@ -107,7 +175,7 @@ I'm an undergraduate **AI/ML researcher** working at the intersection of deep le
 ### 📖 Intelligent RC & Quiz Generation
 `PyTorch` `BERT` `T5` `NLP`
 
-Hybrid ML pipeline using BERT + T5 transformers to analyze text and auto-generate reading comprehension questions and quizzes. Designed as a full AI-powered educational tool.
+Hybrid ML pipeline using BERT + T5 transformers to analyze text and auto-generate reading comprehension questions and quizzes — a full AI-powered educational tool.
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +183,7 @@ Hybrid ML pipeline using BERT + T5 transformers to analyze text and auto-generat
 ### 🖼️ Denoising Autoencoder — CIFAR-10
 `PyTorch` `Deep Learning` `Research`
 
-Designed a 182K-parameter DAE achieving **24.62 dB PSNR** and **0.8225 SSIM**. Accompanied by a full 10-page LNCS-format research report with 45+ ablation experiments.
+182K-parameter DAE achieving **24.62 dB PSNR** and **0.8225 SSIM**, with a full 10-page LNCS-format research report and 45+ ablation experiments.
 
 </td>
 </tr>
@@ -125,7 +193,7 @@ Designed a 182K-parameter DAE achieving **24.62 dB PSNR** and **0.8225 SSIM**. A
 ### 🎬 Multi-Agent AI Video Generation
 `Python` `Gemini API` `Groq` `LLMs`
 
-Architected a modular multi-agent pipeline for AI video generation. Specialized LLM agents handle scriptwriting, scene planning, and synthesis — with Gemini primary and Groq fallback.
+Modular multi-agent pipeline for AI video generation — specialized LLM agents handle scriptwriting, scene planning, and synthesis, with Gemini primary and Groq fallback.
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +201,7 @@ Architected a modular multi-agent pipeline for AI video generation. Specialized 
 ### 🤝 Google Meet AI Attendance Agent
 `Faster-Whisper` `Ollama` `Playwright`
 
-Fully offline autonomous agent that joins live Google Meet sessions, transcribes speech, marks attendance, answers questions, and auto-generates structured PDF notes. Zero API keys.
+Fully offline autonomous agent that joins live Google Meet sessions, transcribes speech, marks attendance, answers questions, and auto-generates structured PDF notes — zero API keys.
 
 </td>
 </tr>
@@ -143,7 +211,7 @@ Fully offline autonomous agent that joins live Google Meet sessions, transcribes
 ### 🌐 English–Urdu Neural Machine Translation
 `PyTorch` `RNN` `Seq2Seq` `NLP`
 
-Vanilla RNN encoder-decoder for low-resource Eng→Urdu NMT. Empirical study on vanishing gradients, sequence bottlenecks, and training instability in under-resourced language pairs.
+Vanilla RNN encoder-decoder for low-resource Eng→Urdu NMT, with an empirical study on vanishing gradients, sequence bottlenecks, and training instability.
 
 </td>
 <td width="50%" valign="top">
@@ -151,15 +219,19 @@ Vanilla RNN encoder-decoder for low-resource Eng→Urdu NMT. Empirical study on 
 ### ⚾ Google Cloud × MLB Hackathon
 `GCP` `Python` `Predictive Modeling`
 
-Production-grade MLB fan engagement platform using Google Cloud AI. Built real-time predictive models and personalized content pipelines for live game enhancement.
+Production-grade MLB fan engagement platform on Google Cloud AI, with real-time predictive models and personalized content pipelines.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## ❯ Technical Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         TECHNICAL STACK                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Technical Stack
 
 **Languages**
 
@@ -202,9 +274,13 @@ Production-grade MLB fan engagement platform using Google Cloud AI. Built real-t
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
----
+<br/>
 
-## ❯ Highlights
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            HIGHLIGHTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏅 Highlights
 
 | | |
 |---|---|
@@ -214,37 +290,49 @@ Production-grade MLB fan engagement platform using Google Cloud AI. Built real-t
 | 📄 **LNCS Research Report — Denoising Autoencoder** `2025` | Produced a full 10-page academic paper with 45+ ablation figures on CIFAR-10 image denoising |
 | ✍️ **AI Research Writing on Medium** | Publishing technical deep-dives on ML, NLP, and systems for a global audience |
 
----
+<br/>
 
-## ❯ GitHub Activity
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB ACTIVITY                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=code-with-idrees&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=code-with-idrees&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&rank_icon=github" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9" height="165"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-idrees&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64b5f6&fire=64b5f6&currStreakLabel=64b5f6&sideLabels=c9d1d9&dates=8b949e" width="55%"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=0d1117&color=64b5f6&line=64b5f6&point=e2e8f0&area_color=0d2137&area=true&hide_border=true&radius=6" width="100%"/>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=code-with-idrees&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%"/>
+
 </div>
 
----
+<br/>
 
-## ❯ Writing
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                             WRITING                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-> *Explore research articles, tutorials, and ML deep-dives on [Medium →](https://medium.com/@idrees0)*
+## ✍️ Writing
 
----
+> Research articles, tutorials, and ML deep-dives on **[Medium →](https://medium.com/@idrees0)**
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                             FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -255,7 +343,7 @@ Production-grade MLB fan engagement platform using Google Cloud AI. Built real-t
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadidrees-)
-[![Email](https://img.shields.io/badge/Send%20a%20message-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sleeping4catt@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20a%20message-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.idrees2k25@gmail.com)
 
 </div>
 
