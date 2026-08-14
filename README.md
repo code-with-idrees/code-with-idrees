@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:0d2137,100:0a1f3d&height=260&section=header&text=Muhammad%20Idrees&fontSize=58&fontColor=e2e8f0&fontAlignY=35&desc=Quantization%20%26%20HPC%20Researcher%20%E2%80%A2%20Low-Resource%20NLP%20%E2%80%A2%20Generative%20AI&descSize=18&descAlignY=55&descColor=64b5f6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:0d2137,100:0a1f3d&height=260&section=header&text=Muhammad%20Idrees&fontSize=58&fontColor=e2e8f0&fontAlignY=35&desc=AI%2FML%20Researcher%20%E2%80%A2%20HPC%20Engineer%20%E2%80%A2%20Generative%20AI&descSize=18&descAlignY=55&descColor=64b5f6&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=680&lines=Sub-8-bit+quantization+%2B+CUDA+kernel+engineering;Stanford+Code+in+Place+Section+Leader+%7C+CERN+BL4S+2025;Low-Resource+NLP+%C2%B7+Speech+%C2%B7+Multi-Agent+Systems;Open+to+Research+Collaborations+%26+PhD+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=680&lines=Building+efficient%2C+scalable+AI+systems+from+%F0%9F%87%B5%F0%9F%87%B0+Pakistan;Stanford+Code+in+Place+Section+Leader+%7C+CERN+BL4S+2025;Transformers+%C2%B7+CUDA+%C2%B7+LLMs+%C2%B7+Multi-Agent+Systems;Open+to+Research+Collaborations+%26+PhD+Opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -26,14 +26,14 @@
 
 ## 📌 Abstract
 
-> Undergraduate researcher working across **numerical efficiency for LLM inference, high-performance computing, and low-resource NLP** — from CUDA-level quantization kernels to multi-agent generative pipelines. My work is grounded in one question: *how do we make models that are efficient, deployable, and usable outside well-resourced languages and hardware?*
+> Undergraduate AI/ML researcher working across **deep learning, high-performance computing, and generative AI** — from CUDA-level kernel optimization to multi-agent LLM pipelines. My work is grounded in one question: *how do we make models that are efficient, interpretable, and genuinely deployable?*
 
 ```python
 researcher = {
     "name"        : "Muhammad Idrees",
     "affiliation" : "FAST-NUCES Islamabad — B.S. Computer Science",
     "location"    : "Rawalpindi, Pakistan 🇵🇰",
-    "focus"       : ["Model Quantization", "HPC / CUDA Kernels", "Low-Resource NLP & Speech", "Multi-Agent Systems"],
+    "focus"       : ["Machine Learning", "HPC / CUDA", "Generative AI", "NLP"],
     "mission"     : "Build AI systems that are efficient, scalable, and universally accessible",
     "status"      : "Open to Research Collaborations · PhD Opportunities · Internships",
     "contact"     : "muhammad.idrees2k25@gmail.com",
@@ -49,7 +49,7 @@ researcher = {
 | 🏆 Global Programs | 📄 Research Output | 🧪 Flagship Result | 🌍 Reach |
 |:---:|:---:|:---:|:---:|
 | Stanford CiP · CERN BL4S | 10-page LNCS-format report | **24.62 dB PSNR** on CIFAR-10 DAE | GCP × MLB Hackathon |
-| 2 international programs | 45+ ablation experiments | 0.8225 SSIM · 182K params | 6+ shipped research projects |
+| 2 international programs | 45+ ablation experiments | 0.8225 SSIM · 182K params | 6+ shipped projects |
 
 </div>
 
@@ -59,27 +59,30 @@ researcher = {
 
 ```mermaid
 graph TD
-    A["🧑‍💻 Muhammad Idrees"] --> B["🖥️ HPC & Kernel Engineering"]
-    A --> C["🔢 Model Quantization"]
-    A --> D["🌐 Low-Resource NLP & Speech"]
-    A --> E["🤖 Generative AI & Multi-Agent Systems"]
+    A["🧑‍💻 Muhammad Idrees"] --> B["🧠 Machine Learning & NLP"]
+    A --> C["🖥️ High-Performance Computing"]
+    A --> D["🤖 Generative AI"]
+    A --> E["🔬 Emerging Directions"]
 
-    B --> B1[CUDA GEMM Kernel Design]
-    B --> B2[Shared-Memory Dequantization]
-    B --> B3[Sub-8-bit Inference Engines]
+    B --> B1[Transformers: BERT · T5]
+    B --> B2[Seq2Seq & Low-Resource NMT]
+    B --> B3[Multi-Agent LLM Orchestration]
+    B --> B4[LoRA · QLoRA · PEFT]
 
-    C --> C1[FP4 / INT4 Quantization]
-    C --> C2[Power-of-Two Quantization-Aware Training]
-    C --> C3[Hardware-Friendly Bit-Shift Arithmetic]
+    C --> C1[CUDA Kernel Programming]
+    C --> C2[MPI / OpenMP Parallelism]
+    C --> C3[FlashAttention & Efficient Inference]
+    C --> C4[Model Compression & Quantization]
 
-    D --> D1[English–Urdu NMT / Seq2Seq]
-    D --> D2[Urdu Speech Emotion Datasets]
-    D --> D3[Denoising Autoencoders]
-    D --> D4[BERT/T5 for Reading Comprehension]
+    D --> D1[Gemini · Groq · Ollama]
+    D --> D2[Diffusion & Image Synthesis]
+    D --> D3[Autonomous Tool-Use Agents]
+    D --> D4[Prompt Engineering & RLHF]
 
-    E --> E1[Gemini · Groq · Ollama]
-    E --> E2[Multi-Agent LLM Orchestration]
-    E --> E3[Offline Autonomous Agents]
+    E --> E1[Sparse Mixture-of-Experts]
+    E --> E2[Memory-Efficient Transformers]
+    E --> E3[Multi-Agent Reasoning Systems]
+    E --> E4[Foundation Model Pre-training]
 
     style A fill:#0d1117,stroke:#64b5f6,stroke-width:2px,color:#e2e8f0
     style B fill:#0a1628,stroke:#64b5f6,color:#e2e8f0
@@ -99,9 +102,8 @@ timeline
          : CERN Beamline for Schools (BL4S)
     2025 : Google Cloud × MLB Hackathon
          : LNCS Research Report — CIFAR-10 Denoising Autoencoder
-         : CUDA FP4/INT4 Quantization Kernel Engine
-    Ongoing : Power-of-Two QAT · Urdu-Speech-AI
-            : Technical writing on Medium
+    Ongoing : Technical writing on Medium
+            : Open-source project development
 ```
 
 <br/>
@@ -112,40 +114,40 @@ timeline
 <tr>
 <td width="50%" valign="top">
 
-**🔢 Model Quantization & Efficiency**
-- Sub-8-bit (INT4/FP4) quantization for LLM inference
-- Power-of-Two Quantization-Aware Training (PoT-QAT)
-- Straight-through estimators & hardware-aligned arithmetic
-- Model compression for constrained deployment
+**🧠 Machine Learning & NLP**
+- Transformer architectures (BERT, T5, encoder-decoder)
+- Sequence-to-sequence & low-resource NMT
+- Multi-agent LLM orchestration
+- Efficient fine-tuning: LoRA, QLoRA, PEFT
 
 </td>
 <td width="50%" valign="top">
 
 **🖥️ High-Performance Computing**
-- CUDA GEMM kernel design & shared-memory dequantization
-- GPU-accelerated ML systems
-- Memory-bandwidth-bound inference optimization
-- Sub-8-bit inference engines
+- CUDA programming & GPU-accelerated ML
+- Parallel & distributed training (MPI, OpenMP)
+- Memory-efficient inference & FlashAttention
+- Model compression & quantization
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🌐 Low-Resource NLP & Speech**
-- English–Urdu neural machine translation (seq2seq)
-- Emotion-annotated speech dataset construction (Urdu)
-- Speech emotion recognition taxonomy design
-- Transformer architectures (BERT, T5) for comprehension tasks
+**🤖 Generative AI**
+- Large language models (Gemini, Groq, Ollama)
+- Diffusion models & image synthesis
+- Autonomous AI agents & tool-use pipelines
+- Prompt engineering & RLHF
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 Generative AI & Multi-Agent Systems**
-- Multi-agent LLM orchestration (Gemini, Groq, Ollama)
-- Provider fallback & reliability engineering
-- Offline / local-inference autonomous agents
-- Prompt engineering & pipeline design
+**🧭 Currently Exploring**
+- Sparse Mixture-of-Experts architectures
+- FlashAttention & memory-efficient transformers
+- Autonomous multi-agent reasoning systems
+- Foundation model pre-training at scale
 
 </td>
 </tr>
@@ -164,81 +166,21 @@ quadrantChart
     quadrant-2 "Applied Depth"
     quadrant-3 "Early Exploration"
     quadrant-4 "Broad Applied Skill"
-    "Quantization / CUDA Kernels": [0.85, 0.85]
-    "Low-Resource NLP": [0.8, 0.8]
-    "Speech / SER": [0.6, 0.75]
-    "Deep Learning / PyTorch": [0.8, 0.7]
-    "Multi-Agent Systems": [0.7, 0.55]
-    "Cloud / MLOps": [0.5, 0.35]
+    "Deep Learning / PyTorch": [0.85, 0.8]
+    "NLP / Transformers": [0.8, 0.75]
+    "CUDA / HPC": [0.65, 0.7]
+    "Generative AI / Agents": [0.75, 0.55]
+    "Cloud / MLOps": [0.55, 0.4]
+    "MoE / FlashAttention": [0.4, 0.85]
 ```
 
-<sub>Self-assessed positioning across active research areas — not a benchmarked metric.</sub>
+<sub>Self-assessed positioning across active focus areas — not a benchmarked metric.</sub>
 
 <br/>
 
 ## 🥇 Featured Research
 
 <table>
-<tr>
-<td width="100%" valign="top">
-
-### ⚡ Low-Bit FP4/INT4 MatMul — CUDA Kernel & Quantization Engine
-`CUDA` `GEMM` `LLM Inference` `Systems`
-
-**Problem.** LLM inference is memory-bandwidth bound at typical batch sizes — FP16 weight storage moves far more data than sub-8-bit precision requires.
-
-**Approach.** Built a high-performance CUDA GEMM kernel and quantization engine for sub-8-bit (INT4/FP4) LLM inference: packing FP16 weights into 4-bit formats, dequantizing on-the-fly in shared memory, and hand-tuning tile sizes and bank-conflict avoidance for throughput.
-
-**Result.** A working low-bit inference engine demonstrating meaningful memory-footprint reduction via fused dequantize-and-multiply, without a full precision rewrite of the serving stack.
-
-</td>
-</tr>
-
-<tr>
-<td width="100%" valign="top">
-
-### 🔢 Power-of-Two Quantization-Aware Training (PoT-QAT)
-`PyTorch` `Quantization` `LLM Compression`
-
-**Problem.** Standard quantization still needs a floating-point multiply against a learned scale at inference — expensive on constrained hardware.
-
-**Approach.** Designed a QAT framework constraining scale factors to the power-of-two lattice, so inference-time scaling degenerates to a bit-shift rather than a float multiply, with gradients propagated through rounding via a straight-through estimator.
-
-**Result.** A compression framework producing models whose inference cost is structurally cheaper on hardware without dedicated float multipliers.
-
-</td>
-</tr>
-
-<tr>
-<td width="100%" valign="top">
-
-### 🗣️ Urdu-Speech-AI — Emotion-Annotated Speech from Poetry
-`Audio` `Speech Emotion Recognition` `Low-Resource NLP`
-
-**Problem.** Emotion-annotated speech datasets barely exist for Urdu, and none exist for expressive spoken-word forms like Shayari (poetry recitation).
-
-**Approach.** Built the first end-to-end pipeline for constructing emotion-annotated speech datasets from professional Urdu poetry performances — a 15-class emotion taxonomy and a 4-dimensional quality benchmark for the resulting corpus.
-
-**Result.** A reusable dataset-construction pipeline and taxonomy for an underserved language and modality.
-
-</td>
-</tr>
-
-<tr>
-<td width="100%" valign="top">
-
-### 🌐 English–Urdu Neural Machine Translation
-`PyTorch` `RNN` `Seq2Seq` `NLP`
-
-**Problem.** English↔Urdu is a genuinely low-resource pair, and standard seq2seq recipes fail in instructive ways here.
-
-**Approach.** Implemented a vanilla RNN encoder-decoder baseline and ran an empirical study of vanishing gradients, the fixed-context-vector bottleneck, and training instability under low-resource conditions.
-
-**Result.** A working NMT baseline paired with a documented failure-mode analysis.
-
-</td>
-</tr>
-
 <tr>
 <td width="100%" valign="top">
 
@@ -270,21 +212,6 @@ xychart-beta
 
 </td>
 </tr>
-
-<tr>
-<td width="100%" valign="top">
-
-### 🎬 Multi-Agent AI Video Generation System
-`Python` `Gemini API` `Groq` `LLMs`
-
-**Problem.** End-to-end AI video generation from a prompt needs coordination across writing, planning, and synthesis — not one monolithic model call.
-
-**Approach.** Modular multi-agent pipeline — specialized LLM agents for scriptwriting, scene planning, and synthesis, with Gemini primary and Groq fallback for resilience.
-
-**Result.** A working automated video generation pipeline, resilient to single-provider outages.
-
-</td>
-</tr>
 </table>
 
 <br/>
@@ -305,6 +232,28 @@ xychart-beta
 </td>
 <td width="50%" valign="top">
 
+### 🖼️ Denoising Autoencoder — CIFAR-10
+`PyTorch` `Deep Learning` `Research`
+
+**Problem:** Reconstruct clean signal from noisy images at low parameter cost.
+**Approach:** 182K-parameter DAE, 45+ ablation experiments.
+**Outcome:** 24.62 dB PSNR / 0.8225 SSIM, documented in a 10-page LNCS report.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Multi-Agent AI Video Generation
+`Python` `Gemini API` `Groq` `LLMs`
+
+**Problem:** Automate end-to-end AI video creation from a prompt.
+**Approach:** Modular multi-agent pipeline — specialized LLM agents for scriptwriting, scene planning, and synthesis, with Gemini primary and Groq fallback for resilience.
+**Outcome:** A working automated video generation pipeline.
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤝 Google Meet AI Attendance Agent
 `Faster-Whisper` `Ollama` `Playwright`
 
@@ -317,12 +266,12 @@ xychart-beta
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 CS-Universities-Admission
-`React` `Gemini API` `CSRankings`
+### 🌐 English–Urdu Neural Machine Translation
+`PyTorch` `RNN` `Seq2Seq` `NLP`
 
-**Problem:** Grad-school applicants lack a single place to match CSRankings data with personalized advice.
-**Approach:** AI-powered admissions portal aggregating CSRankings data with a built-in Gemini advisor for faculty and program matching.
-**Outcome:** A live tool for personalized CS program and faculty insights.
+**Problem:** Translate a genuinely low-resource language pair (English ↔ Urdu).
+**Approach:** Vanilla RNN encoder-decoder, with an empirical study of vanishing gradients, sequence bottlenecks, and training instability under low-resource conditions.
+**Outcome:** A working NMT baseline plus a documented failure-mode analysis.
 
 </td>
 <td width="50%" valign="top">
@@ -433,7 +382,7 @@ xychart-beta
 
 ## 🤝 Open For
 
-- 🔬 Research collaborations in quantization, HPC/CUDA, or low-resource NLP
+- 🔬 Research collaborations in NLP, HPC, or generative AI
 - 🎓 PhD / graduate research opportunities
 - 💼 ML/AI internships
 - 🗣️ Speaking, mentoring, or reviewing for student research programs
@@ -442,7 +391,7 @@ xychart-beta
 
 <div align="center">
 
-**Model Quantization · HPC · Low-Resource NLP · Generative AI**
+**Machine Learning · HPC · Generative AI**
 
 *Rawalpindi, Pakistan → Open to Remote Research & PhD Opportunities Worldwide*
 
