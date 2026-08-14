@@ -4,102 +4,160 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0033,35:2d1b4e,70:1e1a5e,100:0d1117&height=260&section=header&text=Muhammad%20Idrees&fontSize=50&fontColor=e8e6f0&fontAlignY=36&desc=Efficient%20Deep%20Learning%20%C2%B7%20HPC%20%C2%B7%20Low-Resource%20NLP&descSize=17&descAlignY=58&descColor=b794f6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:0d2137,100:0a1f3d&height=260&section=header&text=Muhammad%20Idrees&fontSize=58&fontColor=e2e8f0&fontAlignY=35&desc=AI%2FML%20Researcher%20%E2%80%A2%20HPC%20Engineer%20%E2%80%A2%20Generative%20AI&descSize=18&descAlignY=55&descColor=64b5f6&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=B794F6&center=true&vCenter=true&width=760&lines=Sub-8-bit+quantization+%C2%B7+CUDA+kernel+engineering;Low-resource+NLP+and+speech+for+Urdu;Stanford+Code+in+Place+SL+%2725+%C2%B7+CERN+BL4S;Open+to+PhD+positions+and+research+collaboration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=680&lines=Building+efficient%2C+scalable+AI+systems+from+%F0%9F%87%B5%F0%9F%87%B0+Pakistan;Stanford+Code+in+Place+Section+Leader+%7C+CERN+BL4S+2025;Transformers+%C2%B7+CUDA+%C2%B7+LLMs+%C2%B7+Multi-Agent+Systems;Open+to+Research+Collaborations+%26+PhD+Opportunities" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0033?style=for-the-badge&logo=linkedin&logoColor=B794F6)](https://linkedin.com/in/muhammadidrees-)
-[![Email](https://img.shields.io/badge/Email-1a0033?style=for-the-badge&logo=gmail&logoColor=B794F6)](mailto:muhammad.idrees2k25@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-1a0033?style=for-the-badge&logo=medium&logoColor=B794F6)](https://medium.com/@idrees0)
-[![Kaggle](https://img.shields.io/badge/Kaggle-1a0033?style=for-the-badge&logo=kaggle&logoColor=B794F6)](https://kaggle.com/muhammadidrees)
-[![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=B794F6)](https://github.com/code-with-idrees)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadidrees-)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.idrees2k25@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@idrees0)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/muhammadidrees)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/muhammad_idrees_)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25127610)
 
-<img src="https://komarev.com/ghpvc/?username=code-with-idrees&style=for-the-badge&color=b794f6&label=PROFILE+VIEWS" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/code-with-idrees?style=for-the-badge&color=b794f6&labelColor=1a0033" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=code-with-idrees&style=for-the-badge&color=64b5f6&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/code-with-idrees?style=for-the-badge&color=64b5f6&labelColor=0d1117" alt="followers"/>
 
 </div>
 
 <br/>
 
-## 📜 Research Statement
+## 📌 Abstract
 
-I work on the gap between what deep learning models can theoretically do and what they can actually run on — on real hardware, in real languages, for people who are not sitting on an H100 cluster or working in English. My research sits across three coupled problems:
+> Undergraduate AI/ML researcher working across **deep learning, high-performance computing, and generative AI** — from CUDA-level kernel optimization to multi-agent LLM pipelines. My work is grounded in one question: *how do we make models that are efficient, interpretable, and genuinely deployable?*
 
-1. **Numerical efficiency of inference.** Large models are trained and typically served in floating point precision that is far beyond what most deployment targets need or can afford. I work at the kernel and training-algorithm level — writing CUDA GEMM kernels for sub-8-bit inference and designing power-of-two quantization-aware training schemes — to close the gap between "a model that scores well on a benchmark" and "a model that fits in the compute budget it will actually be served on."
-
-2. **Low-resource language and speech modeling.** Urdu, despite being spoken by hundreds of millions of people, is chronically under-resourced in NLP and speech: minimal parallel corpora for machine translation, and essentially no emotion-annotated speech data. I treat this not as a data-collection footnote but as a modeling problem in its own right — the failure modes that appear at low resource scale (vanishing gradients through long BPTT chains, exposure bias in seq2seq decoding, taxonomy design for emotion labeling in expressive speech) are worth documenting rigorously, not papered over with a larger pretrained checkpoint.
-
-3. **Compositional generation via multi-agent systems.** Rather than treating a large language model as a single monolithic oracle, I build pipelines that decompose generation tasks (video creation, tutoring, meeting comprehension) into specialized agent roles with explicit interfaces and fallback behavior, treating orchestration itself as a design surface with reliability and latency properties worth engineering for.
-
-My approach throughout is empirical and ablation-driven: I would rather run 45 controlled experiments and report a capacity–quality curve honestly than present one favorable number. I am looking for a research environment — PhD program, lab, or research internship — where I can push on the systems/algorithms boundary of efficient deep learning and low-resource language technology with the same rigor.
+```python
+researcher = {
+    "name"        : "Muhammad Idrees",
+    "affiliation" : "FAST-NUCES Islamabad — B.S. Computer Science",
+    "location"    : "Rawalpindi, Pakistan 🇵🇰",
+    "focus"       : ["Machine Learning", "HPC / CUDA", "Generative AI", "NLP"],
+    "mission"     : "Build AI systems that are efficient, scalable, and universally accessible",
+    "status"      : "Open to Research Collaborations · PhD Opportunities · Internships",
+    "contact"     : "muhammad.idrees2k25@gmail.com",
+}
+```
 
 <br/>
 
-## 📌 Abstract
+## 📊 Impact Snapshot
 
-> Undergraduate researcher working at the intersection of **numerical efficiency for deep learning inference, low-resource NLP/speech, and multi-agent generative systems**. Current work spans CUDA kernel design for sub-8-bit LLM inference, power-of-two quantization-aware training, and the first emotion-annotated speech dataset pipeline for Urdu poetry performance.
+<div align="center">
 
-````python
-researcher = {
-    "name"          : "Muhammad Idrees",
-    "affiliation"   : "FAST-NUCES Islamabad — B.S. Computer Science",
-    "location"      : "Rawalpindi, Pakistan 🇵🇰",
-    "research_areas": [
-        "Numerical efficiency & quantization for LLM inference",
-        "CUDA / GPU kernel engineering",
-        "Low-resource NLP & speech (Urdu)",
-        "Multi-agent generative systems",
-    ],
-    "thesis"        : "Efficiency and language-equity are the same optimization problem, viewed from different axes",
-    "status"        : "Open to Research Collaborations · PhD Opportunities (Fall 2026/2027) · Research Internships",
-    "contact"       : "muhammad.idrees2k25@gmail.com",
-}
-````
+| 🏆 Global Programs | 📄 Research Output | 🧪 Flagship Result | 🌍 Reach |
+|:---:|:---:|:---:|:---:|
+| Stanford CiP · CERN BL4S | 10-page LNCS-format report | **24.62 dB PSNR** on CIFAR-10 DAE | GCP × MLB Hackathon |
+| 2 international programs | 45+ ablation experiments | 0.8225 SSIM · 182K params | 6+ shipped projects |
+
+</div>
 
 <br/>
 
 ## 🧭 Research Focus Map
 
-````mermaid
+```mermaid
 graph TD
-    A["🧑‍💻 Muhammad Idrees"] --> B["🖥️ Numerical Efficiency & HPC"]
-    A --> C["🔢 Quantization Theory"]
-    A --> D["🌐 Low-Resource NLP & Speech"]
-    A --> E["🤖 Multi-Agent Generative Systems"]
+    A["🧑‍💻 Muhammad Idrees"] --> B["🧠 Machine Learning & NLP"]
+    A --> C["🖥️ High-Performance Computing"]
+    A --> D["🤖 Generative AI"]
+    A --> E["🔬 Emerging Directions"]
 
-    B --> B1[CUDA GEMM Kernel Design]
-    B --> B2[Shared-Memory Dequantization]
-    B --> B3[Sub-8-bit Inference Engines]
-    B --> B4[Memory-Bandwidth-Bound Optimization]
+    B --> B1[Transformers: BERT · T5]
+    B --> B2[Seq2Seq & Low-Resource NMT]
+    B --> B3[Multi-Agent LLM Orchestration]
+    B --> B4[LoRA · QLoRA · PEFT]
 
-    C --> C1[Affine / Uniform Quantization]
-    C --> C2[Power-of-Two Quantization-Aware Training]
-    C --> C3[Straight-Through Estimators]
-    C --> C4[Hardware-Aligned Bit-Shift Arithmetic]
+    C --> C1[CUDA Kernel Programming]
+    C --> C2[MPI / OpenMP Parallelism]
+    C --> C3[FlashAttention & Efficient Inference]
+    C --> C4[Model Compression & Quantization]
 
-    D --> D1[English–Urdu NMT / Seq2Seq Failure Modes]
-    D --> D2[Urdu Speech Emotion Datasets]
-    D --> D3[Denoising Autoencoders for Signal Reconstruction]
-    D --> D4[BERT/T5 for Reading Comprehension]
+    D --> D1[Gemini · Groq · Ollama]
+    D --> D2[Diffusion & Image Synthesis]
+    D --> D3[Autonomous Tool-Use Agents]
+    D --> D4[Prompt Engineering & RLHF]
 
-    E --> E1[Agent Role Decomposition]
-    E --> E2[Provider Fallback & Reliability]
-    E --> E3[Offline / Local-Inference Agents]
+    E --> E1[Sparse Mixture-of-Experts]
+    E --> E2[Memory-Efficient Transformers]
+    E --> E3[Multi-Agent Reasoning Systems]
+    E --> E4[Foundation Model Pre-training]
 
-    style A fill:#1a0033,stroke:#b794f6,stroke-width:2px,color:#e8e6f0
-    style B fill:#2d1b4e,stroke:#b794f6,color:#e8e6f0
-    style C fill:#2d1b4e,stroke:#b794f6,color:#e8e6f0
-    style D fill:#2d1b4e,stroke:#b794f6,color:#e8e6f0
-    style E fill:#2d1b4e,stroke:#b794f6,color:#e8e6f0
-````
+    style A fill:#0d1117,stroke:#64b5f6,stroke-width:2px,color:#e2e8f0
+    style B fill:#0a1628,stroke:#64b5f6,color:#e2e8f0
+    style C fill:#0a1628,stroke:#64b5f6,color:#e2e8f0
+    style D fill:#0a1628,stroke:#64b5f6,color:#e2e8f0
+    style E fill:#0a1628,stroke:#64b5f6,color:#e2e8f0
+```
 
 <br/>
 
-## 🎯 Expertise Positioning
+## 🗓️ Timeline
 
-````mermaid
+```mermaid
+timeline
+    title Research & Achievement Timeline
+    2025 : Stanford Code in Place — Section Leader
+         : CERN Beamline for Schools (BL4S)
+    2025 : Google Cloud × MLB Hackathon
+         : LNCS Research Report — CIFAR-10 Denoising Autoencoder
+    Ongoing : Technical writing on Medium
+            : Open-source project development
+```
+
+<br/>
+
+## 🔬 Research & Interests
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Machine Learning & NLP**
+- Transformer architectures (BERT, T5, encoder-decoder)
+- Sequence-to-sequence & low-resource NMT
+- Multi-agent LLM orchestration
+- Efficient fine-tuning: LoRA, QLoRA, PEFT
+
+</td>
+<td width="50%" valign="top">
+
+**🖥️ High-Performance Computing**
+- CUDA programming & GPU-accelerated ML
+- Parallel & distributed training (MPI, OpenMP)
+- Memory-efficient inference & FlashAttention
+- Model compression & quantization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Generative AI**
+- Large language models (Gemini, Groq, Ollama)
+- Diffusion models & image synthesis
+- Autonomous AI agents & tool-use pipelines
+- Prompt engineering & RLHF
+
+</td>
+<td width="50%" valign="top">
+
+**🧭 Currently Exploring**
+- Sparse Mixture-of-Experts architectures
+- FlashAttention & memory-efficient transformers
+- Autonomous multi-agent reasoning systems
+- Foundation model pre-training at scale
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎯 Expertise Matrix
+
+```mermaid
 quadrantChart
     title Depth vs. Breadth Across Focus Areas
     x-axis "Exploring" --> "Core Strength"
@@ -108,117 +166,32 @@ quadrantChart
     quadrant-2 "Applied Depth"
     quadrant-3 "Early Exploration"
     quadrant-4 "Broad Applied Skill"
-    "CUDA / Kernel Engineering": [0.8, 0.75]
-    "Quantization (PoT-QAT, INT4/FP4)": [0.85, 0.85]
-    "Low-Resource NLP": [0.75, 0.8]
-    "Speech / SER": [0.6, 0.75]
-    "Multi-Agent Systems": [0.7, 0.55]
-    "Cloud / MLOps": [0.5, 0.35]
+    "Deep Learning / PyTorch": [0.85, 0.8]
+    "NLP / Transformers": [0.8, 0.75]
+    "CUDA / HPC": [0.65, 0.7]
+    "Generative AI / Agents": [0.75, 0.55]
+    "Cloud / MLOps": [0.55, 0.4]
+    "MoE / FlashAttention": [0.4, 0.85]
+```
 
-</div>
-
-<sub>Self-assessed positioning across active research areas — not a benchmarked external metric.</sub>
-
-<br/>
-
-## 🥇 Flagship Research
-
-Each entry below follows a standard research-report structure: **motivation and problem formulation → method → experimental setup and results → limitations and next steps.** These are written at the technical depth I'd use in a project report or extended abstract, not a marketing blurb.
+<sub>Self-assessed positioning across active focus areas — not a benchmarked metric.</sub>
 
 <br/>
 
-### ⚡ 01 — Low-Bit FP4/INT4 MatMul: A CUDA GEMM Kernel & Quantization Engine for Sub-8-bit LLM Inference
+## 🥇 Featured Research
 
-`CUDA` `C++` `GEMM` `LLM Inference` `Systems Engineering`
+<table>
+<tr>
+<td width="100%" valign="top">
 
-**Motivation & problem formulation.**
-Transformer inference is overwhelmingly memory-bandwidth bound rather than compute bound at typical batch sizes: for a linear layer `y = Wx` with `W ∈ ℝ^(m×n)` stored in FP16, the dominant cost at small batch is streaming `W` from HBM into the SM register file, not the multiply-accumulate throughput itself. Reducing the on-disk/on-HBM bit-width of `W` from 16 bits to 4 bits gives a theoretical 4× reduction in the data movement that bottlenecks this regime — but only if the dequantization step can be fused into the kernel without becoming the new bottleneck, and only if the quantization error doesn't destroy downstream task accuracy.
+### 🖼️ Denoising Autoencoder for CIFAR-10 — LNCS-Format Research Report
+`PyTorch` `Deep Learning` `Signal Reconstruction`
 
-**Method.**
-- Implemented affine (zero-point + scale) and symmetric quantization schemes that pack FP16 weight tensors into INT4/FP4 representations at a configurable group size (per-channel and per-group granularity), trading compression ratio against quantization error.
-- Wrote a custom CUDA GEMM kernel that loads packed 4-bit weight tiles into shared memory, performs on-the-fly dequantization *inside* shared memory (rather than materializing a dequantized FP16 copy in global memory first), and immediately consumes the dequantized tile in the matrix-multiply accumulation loop — this fusion is what prevents dequantization from reintroducing the bandwidth cost the quantization was meant to remove.
-- Tuned tile sizes, thread-block dimensions, and shared-memory bank-conflict avoidance (padding strides to avoid stride-32 aliasing across warps) empirically against occupancy and achieved memory throughput, profiling with standard CUDA occupancy/throughput tooling.
+**Problem.** Reconstruct clean images from noisy CIFAR-10 inputs while keeping the model small enough for constrained deployment.
 
-**Results.**
-A functioning low-bit GEMM kernel and quantization engine capable of running INT4/FP4-packed weight matrices through fused dequantize-and-multiply, with measurable reduction in weight memory footprint relative to an FP16 baseline at the same logical matrix dimensions.
+**Approach.** Designed a lightweight, fully custom denoising autoencoder and ran a systematic ablation sweep across architecture depth, noise schedules, and latent bottleneck sizing — 45+ configurations in total — writing the full study up as a 10-page LNCS-format research report.
 
-**Limitations & next steps.**
-Group-size selection is currently manual rather than learned/searched per-layer; a natural extension is a per-layer sensitivity analysis (e.g., via Hessian-trace or activation-outlier statistics, in the spirit of GPTQ/AWQ-style approaches) to allocate bit-budget non-uniformly across layers rather than applying a single global group size. I'm also interested in extending the kernel to support mixed FP4/INT4 activation quantization jointly with weight quantization, which introduces additional error-propagation considerations through nonlinearities.
-
-<br/>
-
-### 🔢 02 — Power-of-Two Quantization-Aware Training (PoT-QAT) for Hardware-Friendly LLM Compression
-
-`PyTorch` `Quantization-Aware Training` `LLM Compression`
-
-**Motivation & problem formulation.**
-Standard uniform quantization maps a real-valued weight `w` to `round(w/s) · s` for a learned or calibrated scale `s`, but the *inference-time* multiply `round(w/s) · s · x` still requires a floating-point multiply against `s` unless `s` is constrained. If instead the scale factors are restricted to powers of two, `s = 2^k`, the multiply-by-scale degenerates to a bit-shift — arithmetic that is essentially free on hardware without a dedicated floating-point multiplier, and cheaper even on hardware that has one. The research question is whether this hardware-motivated constraint on the *representable scale values* can be absorbed during training (rather than applied post-hoc) without meaningfully degrading task performance.
-
-**Method.**
-- Built a quantization-aware training loop in which weight/activation scale factors are constrained to the power-of-two lattice `{2^k : k ∈ ℤ}` during the forward pass, with gradients propagated through the (non-differentiable) rounding operation via a straight-through estimator (STE), so the underlying full-precision "shadow" weights still receive a well-defined gradient signal despite the forward pass seeing only the quantized values.
-- Compared against standard uniform-scale QAT as a baseline to isolate the specific cost (if any) of the power-of-two constraint versus general low-bit quantization.
-- Designed the framework so exported weights carry only integer mantissas plus a per-tensor/per-group shift exponent, replacing the runtime floating-point multiply-accumulate with shift-accumulate.
-
-**Results.**
-A working PoT-QAT framework producing models whose weights are natively representable as shift-based fixed-point values rather than requiring a floating-point scale multiply at inference — i.e., inference cost that is structurally cheaper on hardware without dedicated FP multipliers, at a quantization-error cost characterized empirically against the uniform-scale baseline.
-
-**Limitations & next steps.**
-The power-of-two constraint necessarily coarsens the achievable scale resolution relative to arbitrary real-valued scales, which shows up as higher quantization error at matched bit-width in some layers — the natural follow-up is a per-layer study of *where* this constraint costs the most accuracy (attention projections vs. MLP layers vs. embeddings) to decide where PoT is worth applying versus where a hybrid scheme is preferable.
-
-<br/>
-
-### 🗣️ 03 — Urdu-Speech-AI: An Emotion-Annotated Speech Dataset Pipeline from Professional Poetry Performance
-
-`Audio Processing` `Speech Emotion Recognition` `Dataset Construction` `Low-Resource NLP`
-
-**Motivation & problem formulation.**
-Speech emotion recognition (SER) research is overwhelmingly built on English- and Mandarin-language corpora (IEMOCAP, RAVDESS, CREMA-D, etc.); Urdu — a language with 230M+ speakers — has essentially no emotion-annotated speech resources, and *none* covering expressive, performative spoken-word forms like Shayari (Urdu poetry recitation), where emotional expression is deliberately heightened relative to conversational speech and therefore both harder to model and more information-dense as training signal.
-
-**Method.**
-- Designed and built the first end-to-end pipeline for constructing an emotion-annotated speech dataset from professional Urdu poetry performances, covering source collection, segmentation, and annotation protocol design.
-- Defined a **15-class emotion taxonomy** specific to the expressive range found in Shayari performance — a domain where standard 6-to-8-class "basic emotion" taxonomies (Ekman-style) under-specify the affective range actually present in the material (e.g., distinctions like longing, defiance, and nostalgic melancholy that get collapsed under generic "sadness"/"anger" labels in standard SER taxonomies).
-- Built a **4-dimensional quality benchmark** for the resulting corpus, to give downstream users of the dataset a way to audit annotation reliability and audio quality rather than treating the corpus as a black box.
-
-**Results.**
-A reusable dataset-construction pipeline, a domain-appropriate emotion taxonomy, and a quality-benchmarked corpus — filling a concrete gap in low-resource SER resources for a major world language.
-
-**Limitations & next steps.**
-Inter-annotator agreement statistics for the 15-class taxonomy (e.g., Cohen's/Fleiss' κ) are a priority next step to formally validate label reliability at this granularity. I'm also interested in training and releasing a baseline SER model (e.g., a fine-tuned wav2vec2/HuBERT-style encoder with a classification head) on top of this corpus as a reference point for future work, and in studying transfer from this domain to conversational Urdu speech.
-
-<br/>
-
-### 🌐 04 — English–Urdu Neural Machine Translation: An Empirical Study of Low-Resource Seq2Seq Failure Modes
-
-`PyTorch` `RNN Encoder-Decoder` `Seq2Seq` `NLP`
-
-**Motivation & problem formulation.**
-English↔Urdu is a genuinely low-resource translation pair in the NMT literature relative to high-resource pairs like English–French or English–German, and vanilla RNN encoder-decoder architectures are known to be *particularly* sensitive to low-resource conditions in ways that are pedagogically and diagnostically useful to study directly, rather than skipping straight to a pretrained multilingual transformer that papers over the failure.
-
-**Method.**
-- Implemented a vanilla RNN encoder-decoder (no attention) as a deliberately minimal baseline, trained with teacher forcing on English–Urdu parallel data.
-- Conducted an empirical study of three specific failure modes: **(1)** vanishing gradients through backpropagation-through-time as sequence length grows, tracked via gradient-norm statistics across timesteps; **(2)** the fixed-length context-vector bottleneck, where all source-sentence information must be compressed into a single hidden state, and its effect on translation quality as source length increases; **(3)** training instability characteristic of low-resource regimes, including sensitivity to learning-rate schedule and exposure bias from teacher forcing (the train/inference mismatch where the decoder never sees its own errors during training).
-
-**Results.**
-A working NMT baseline plus a **documented failure-mode analysis** connecting observed translation degradation to the specific architectural bottlenecks (context-vector saturation, vanishing gradient norms at long BPTT depth) rather than reporting a single BLEU number in isolation.
-
-**Limitations & next steps.**
-The natural next experiment is an ablation adding Bahdanau/Luong-style attention to the same baseline to directly measure how much of the observed degradation is attributable to the fixed-context-vector bottleneck specifically (as opposed to general low-resource data scarcity), which would isolate the architectural fix from the data fix.
-
-<br/>
-
-### 🖼️ 05 — Denoising Autoencoder for CIFAR-10: A 10-Page LNCS-Format Ablation Study
-
-`PyTorch` `Deep Learning` `Signal Reconstruction` `Ablation Methodology`
-
-**Motivation & problem formulation.**
-Reconstructing clean images from noisy inputs is a canonical signal-reconstruction task, but most public denoising-autoencoder implementations report a single architecture/noise-level combination without systematically characterizing how reconstruction quality trades off against model capacity — information that matters directly for constrained-deployment settings where the 182K-parameter point on that curve, not just the best achievable PSNR, is the actionable result.
-
-**Method.**
-- Designed a lightweight, fully custom convolutional denoising autoencoder trained to minimize reconstruction loss (pixel-wise MSE) between denoised output and clean target, under a configurable additive noise model applied to CIFAR-10 inputs.
-- Ran a systematic ablation sweep — **45+ configurations** — varying architecture depth, noise schedule/intensity, and latent bottleneck sizing, holding other factors fixed per sweep to isolate each variable's marginal effect on reconstruction quality.
-- Wrote the complete study up as a **10-page LNCS-format research report**, including the full ablation table and 45+ publication-quality figures, following the structural conventions of a peer-reviewed workshop paper.
-
-**Results.**
+**Result.**
 
 | Metric | Value |
 |:--|:--:|
@@ -235,77 +208,70 @@ xychart-beta
     y-axis "PSNR (dB)" 18 --> 26
     line [19.8, 21.4, 22.6, 23.5, 24.1, 24.62]
 ```
-*Chart illustrates the general capacity–quality trend observed across the ablation sweep; the full report contains the complete 45+ experiment breakdown, including noise-schedule and bottleneck-size sweeps not shown here.*
+*Chart illustrates the general capacity–quality trend observed across the ablation sweep; see the full report for the complete 45+ experiment breakdown.*
 
-**Limitations & next steps.**
-The capacity–quality curve appears to be flattening near 182K parameters, suggesting diminishing returns from further scaling under this architecture family — a natural follow-up is testing whether a different inductive bias (e.g., a U-Net-style skip-connection architecture at matched parameter count) shifts the curve rather than just extending it.
-
-<br/>
-
-### 🎬 06 — Multi-Agent AI Video Generation System
-
-`Python` `Gemini API` `Groq` `Multi-Agent Orchestration`
-
-**Motivation & problem formulation.**
-End-to-end AI video generation from a single text prompt spans several qualitatively different sub-tasks — narrative structuring, scene/shot planning, and asset synthesis — that a single monolithic model call tends to conflate, producing outputs that are locally fluent but globally incoherent. The design question is whether decomposing this into specialized agent roles with explicit interfaces, and treating provider failure as a first-class concern, produces more reliable and more structurally coherent output than a single-call approach.
-
-**Method.**
-- Built a modular multi-agent pipeline with distinct agents for **scriptwriting**, **scene/shot planning**, and **synthesis orchestration**, each with a narrowly scoped responsibility and a defined input/output contract to the next stage.
-- Used Gemini as the primary generation backend with **Groq as an automatic fallback**, so provider-side outages or rate-limiting on one API do not stall the full pipeline — a reliability-engineering concern as much as a modeling one.
-
-**Results.**
-A working automated video-generation pipeline that is resilient to single-provider outages by construction, with each agent's output independently inspectable for debugging rather than opaque end-to-end generation.
-
-**Limitations & next steps.**
-Currently the inter-agent hand-offs are structured but not formally verified (no schema validation between stages); adding typed interfaces / schema checks between agents, plus a quantitative coherence metric across the full generated video (rather than per-stage quality only), would be the natural hardening step before treating this as more than a research prototype.
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 📄 Reports & Technical Writing
-
-| Title | Type | Venue / Format | Summary |
-|---|---|---|---|
-| **Denoising Autoencoder for CIFAR-10: An Ablation Study** | Research report | 10-page, LNCS format | 45+ ablation experiments across architecture depth, noise schedule, and bottleneck sizing; full methodology and figures |
-| **Technical deep-dives on ML, HPC, and low-resource NLP** | Ongoing writing | [Medium →](https://medium.com/@idrees0) | Explanatory and technical articles aimed at a research-literate audience |
-
-<br/>
-
-## 💡 Applied Projects
-
-*(Engineering-focused work adjacent to the research above — included for completeness, not positioned as primary research contributions.)*
+## 💡 Selected Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🤝 Google Meet AI Attendance Agent
-`Faster-Whisper` `Ollama` `Playwright`
-
-**Problem:** Automate meeting attendance, note-taking, and Q&A — without sending anything to the cloud.
-**Approach:** Fully offline agent — Playwright joins meetings, Faster-Whisper transcribes locally, Ollama reasons locally.
-**Outcome:** Attendance tracking plus auto-generated structured PDF notes, zero API keys, zero cloud dependency.
-
-</td>
 <td width="50%" valign="top">
 
 ### 📖 Intelligent RC & Quiz Generation
 `PyTorch` `BERT` `T5` `NLP`
 
 **Problem:** Automate reading-comprehension question generation from raw text.
-**Approach:** Hybrid pipeline pairing BERT for context/comprehension encoding with T5 for question generation.
-**Outcome:** A full AI-powered educational tool for auto-generating quizzes from arbitrary source text.
+**Approach:** Hybrid pipeline pairing BERT for comprehension/context encoding with T5 for question generation.
+**Outcome:** A full AI-powered educational tool for auto-generating quizzes.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖼️ Denoising Autoencoder — CIFAR-10
+`PyTorch` `Deep Learning` `Research`
+
+**Problem:** Reconstruct clean signal from noisy images at low parameter cost.
+**Approach:** 182K-parameter DAE, 45+ ablation experiments.
+**Outcome:** 24.62 dB PSNR / 0.8225 SSIM, documented in a 10-page LNCS report.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 CS-Universities-Admission
-`React` `Gemini API` `CSRankings`
+### 🎬 Multi-Agent AI Video Generation
+`Python` `Gemini API` `Groq` `LLMs`
 
-**Problem:** Grad-school applicants lack a single place to match CSRankings data with personalized program advice.
-**Approach:** AI-powered admissions portal aggregating CSRankings data with a built-in Gemini advisor for faculty/program matching.
-**Outcome:** A live tool for personalized CS program and faculty insights.
+**Problem:** Automate end-to-end AI video creation from a prompt.
+**Approach:** Modular multi-agent pipeline — specialized LLM agents for scriptwriting, scene planning, and synthesis, with Gemini primary and Groq fallback for resilience.
+**Outcome:** A working automated video generation pipeline.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Google Meet AI Attendance Agent
+`Faster-Whisper` `Ollama` `Playwright`
+
+**Problem:** Automate meeting attendance, note-taking, and Q&A without cloud APIs.
+**Approach:** Offline agent using Playwright to join meetings, Faster-Whisper for transcription, and Ollama for local LLM reasoning.
+**Outcome:** Fully offline attendance tracking + auto-generated structured PDF notes, zero API keys.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 English–Urdu Neural Machine Translation
+`PyTorch` `RNN` `Seq2Seq` `NLP`
+
+**Problem:** Translate a genuinely low-resource language pair (English ↔ Urdu).
+**Approach:** Vanilla RNN encoder-decoder, with an empirical study of vanishing gradients, sequence bottlenecks, and training instability under low-resource conditions.
+**Outcome:** A working NMT baseline plus a documented failure-mode analysis.
 
 </td>
 <td width="50%" valign="top">
@@ -313,9 +279,9 @@ Currently the inter-agent hand-offs are structured but not formally verified (no
 ### ⚾ Google Cloud × MLB Hackathon
 `GCP` `Python` `Predictive Modeling`
 
-**Problem:** Improve live fan engagement using real-time game data.
-**Approach:** Production-grade platform on Google Cloud AI with real-time predictive models and personalized content delivery.
-**Outcome:** A deployed fan-engagement platform built and shipped within a live hackathon timeframe.
+**Problem:** Improve live fan engagement using real-time data.
+**Approach:** Production-grade platform on Google Cloud AI with real-time predictive models and personalized content pipelines.
+**Outcome:** A deployed fan-engagement platform built for a live hackathon.
 
 </td>
 </tr>
@@ -327,55 +293,56 @@ Currently the inter-agent hand-offs are structured but not formally verified (no
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-1a0033?style=flat-square&logo=python&logoColor=b794f6)
-![C++](https://img.shields.io/badge/C++-1a0033?style=flat-square&logo=c%2B%2B&logoColor=b794f6)
-![CUDA](https://img.shields.io/badge/CUDA-1a0033?style=flat-square&logo=nvidia&logoColor=b794f6)
-![Rust](https://img.shields.io/badge/Rust-1a0033?style=flat-square&logo=rust&logoColor=b794f6)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0033?style=flat-square&logo=typescript&logoColor=b794f6)
-![C](https://img.shields.io/badge/C-1a0033?style=flat-square&logo=c&logoColor=b794f6)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **ML / Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1a0033?style=flat-square&logo=pytorch&logoColor=b794f6)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a0033?style=flat-square&logo=huggingface&logoColor=b794f6)
-![ONNX](https://img.shields.io/badge/ONNX-1a0033?style=flat-square&logo=onnx&logoColor=b794f6)
-![XGBoost](https://img.shields.io/badge/XGBoost-1a0033?style=flat-square&logoColor=b794f6)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/BERT-0052CC?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![SBERT](https://img.shields.io/badge/SBERT-FF6B6B?style=flat-square&logoColor=white)
+
+**Generative AI & LLMs**
+
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-412991?style=flat-square&logoColor=white)
 
 **HPC & Systems**
 
-![CUDA](https://img.shields.io/badge/CUDA_Kernels-1a0033?style=flat-square&logo=nvidia&logoColor=b794f6)
-![Linux](https://img.shields.io/badge/Linux-1a0033?style=flat-square&logo=linux&logoColor=b794f6)
-![Docker](https://img.shields.io/badge/Docker-1a0033?style=flat-square&logo=docker&logoColor=b794f6)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-FF6600?style=flat-square&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-0071C5?style=flat-square&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Speech & Audio**
+**Cloud & MLOps**
 
-![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-1a0033?style=flat-square&logoColor=b794f6)
-
-**Generative AI & Agents**
-
-![Gemini](https://img.shields.io/badge/Gemini_API-1a0033?style=flat-square&logo=google&logoColor=b794f6)
-![Groq](https://img.shields.io/badge/Groq-1a0033?style=flat-square&logoColor=b794f6)
-![Ollama](https://img.shields.io/badge/Ollama-1a0033?style=flat-square&logoColor=b794f6)
-![LangChain](https://img.shields.io/badge/LangChain-1a0033?style=flat-square&logoColor=b794f6)
-
-**Cloud & Tooling**
-
-![GCP](https://img.shields.io/badge/Google_Cloud-1a0033?style=flat-square&logo=google-cloud&logoColor=b794f6)
-![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=flat-square&logo=github&logoColor=b794f6)
-![Playwright](https://img.shields.io/badge/Playwright-1a0033?style=flat-square&logo=playwright&logoColor=b794f6)
-![W&B](https://img.shields.io/badge/Weights_%26_Biases-1a0033?style=flat-square&logo=weightsandbiases&logoColor=b794f6)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 <br/>
 
-## 🏅 Highlights & Recognition
+## 🏅 Highlights
 
 | | |
 |---|---|
-| 🎓 **Stanford Code in Place — Section Leader** `2025` | Selected from a global applicant pool to mentor an international cohort in Python and computational thinking for Stanford's flagship open CS program |
-| 🔬 **CERN Beamline for Schools (BL4S)** `2025` | Competed in CERN's international physics competition, proposing an original experiment integrating HPC and ML methodology |
-| ☁️ **Google Cloud × MLB Hackathon** `2025` | Designed and shipped a production-grade AI fan-engagement platform on GCP with real-time predictive models under hackathon time constraints |
-| 📄 **LNCS Research Report — Denoising Autoencoder** `2025` | Authored a full 10-page academic-format report with 45+ ablation figures on CIFAR-10 image denoising |
-| ✍️ **Technical Writing on Medium** | Ongoing publication of research-literate deep-dives on quantization, HPC, and low-resource NLP |
+| 🎓 **Stanford Code in Place — Section Leader** `2025` | Selected from a global pool to mentor students in Python & computational thinking for Stanford's international CS program |
+| 🔬 **CERN Beamline for Schools (BL4S)** `2025` | Competed in CERN's international physics competition, proposing an original experiment applying HPC and ML concepts |
+| ☁️ **Google Cloud × MLB Hackathon** `2025` | Built a production-grade AI fan engagement platform on GCP with real-time predictive models |
+| 📄 **LNCS Research Report — Denoising Autoencoder** `2025` | Produced a full 10-page academic paper with 45+ ablation figures on CIFAR-10 image denoising |
+| ✍️ **AI Research Writing on Medium** | Publishing technical deep-dives on ML, NLP, and systems for a global audience |
 
 <br/>
 
@@ -383,21 +350,29 @@ Currently the inter-agent hand-offs are structured but not formally verified (no
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=code-with-idrees&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1a0033&title_color=b794f6&icon_color=b794f6&text_color=e8e6f0&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=code-with-idrees&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&rank_icon=github" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=1a0033&title_color=b794f6&text_color=e8e6f0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-idrees&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-idrees&theme=radical&hide_border=true&background=1a0033&ring=b794f6&fire=b794f6&currStreakLabel=b794f6&sideLabels=e8e6f0&dates=8b949e" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-idrees&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64b5f6&fire=64b5f6&currStreakLabel=64b5f6&sideLabels=c9d1d9&dates=8b949e" width="55%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=1a0033&color=b794f6&line=b794f6&point=e8e6f0&area_color=2d1b4e&area=true&hide_border=true&radius=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-idrees&bg_color=0d1117&color=64b5f6&line=64b5f6&point=e2e8f0&area_color=0d2137&area=true&hide_border=true&radius=6" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=code-with-idrees&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/code-with-idrees/code-with-idrees/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation"/>
 
 </div>
 
-<br/>
+
 
 ## ✍️ Writing
 
@@ -405,35 +380,28 @@ Currently the inter-agent hand-offs are structured but not formally verified (no
 
 <br/>
 
-## 🤝 Collaboration & PhD Readiness
+## 🤝 Open For
 
-I'm actively looking for:
-
-- 🔬 **Research collaborations** in quantization, CUDA/HPC kernel engineering, or low-resource NLP/speech
-- 🎓 **PhD positions** in efficient deep learning, systems-for-ML, or low-resource/multilingual NLP
-- 💼 **Research-track internships** where ablation-driven, publication-oriented work is the expectation, not an afterthought
-- 🗣️ **Speaking, mentoring, or reviewing** for student research programs, given prior experience as a Stanford Code in Place section leader
-
-If your lab works on efficient inference, quantization, or language technology for under-resourced languages, I'd welcome a conversation.
+- 🔬 Research collaborations in NLP, HPC, or generative AI
+- 🎓 PhD / graduate research opportunities
+- 💼 ML/AI internships
+- 🗣️ Speaking, mentoring, or reviewing for student research programs
 
 <br/>
 
 <div align="center">
 
-**Numerical Efficiency · Quantization · Low-Resource NLP & Speech · Multi-Agent Systems**
+**Machine Learning · HPC · Generative AI**
 
 *Rawalpindi, Pakistan → Open to Remote Research & PhD Opportunities Worldwide*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-1a0033?style=for-the-badge&logo=linkedin&logoColor=b794f6)](https://linkedin.com/in/muhammadidrees-)
-[![Email](https://img.shields.io/badge/Send%20a%20message-1a0033?style=for-the-badge&logo=gmail&logoColor=b794f6)](mailto:muhammad.idrees2k25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadidrees-)
+[![Email](https://img.shields.io/badge/Send%20a%20message-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.idrees2k25@gmail.com)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,35:1e1a5e,70:2d1b4e,100:1a0033&height=120&section=footer" width="100%"/>
-````
-
-A note on the quadrant chart: I closed it with `</div>` by mistake carrying over from the earlier draft — when you paste it in, replace that stray `</div>` right after the `quadrantChart` block with a closing ` ``` ` for the mermaid fence instead, or I can send a corrected version if you'd rather I regenerate the whole thing cleanly once file creation is back up.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f3d,50:0d2137,100:0d1117&height=120&section=footer" width="100%"/>
